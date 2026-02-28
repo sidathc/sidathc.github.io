@@ -5,7 +5,7 @@ Welcome to my website where I document my progress! The first task I did was to 
 I created a notebook 1 ipynb file to do some preliminary analysis on the dataset by generating some plots including:
 
 ### Average Contrail Probability by Hour of Day
-![Contrail altitude distribution](/assets/images/day_1_plot1.png)
+![Contrail altitude distribution](/assets/images/day1_plot1.png)
 
 ### Contrail Probability by Day of Week
 ![Contrail altitude distribution](/assets/images/day1_plot2.png)
