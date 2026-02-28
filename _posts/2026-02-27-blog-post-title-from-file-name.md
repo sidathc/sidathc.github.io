@@ -1,4 +1,4 @@
-## Starting Off & Notebook 1
+## Kickstarting My Project + First Look at Data
 
 Welcome to my website where I document my progress! The first task I did was to setup the Google Contrails API, which provides valuable data on longitude, latitude, flight level, datetime, and contrail forcing index values. To make it easier to analyse some data, I imported a day's worth of data into a simple, local SQLite database. After successfully running that, I imported a week's worth of data in around 6 hour intervals and ran some SQL queries to verify this.
 
