@@ -1,14 +1,14 @@
-## Day 4: Contrail Probabilities with Respect to Longitude, Altitude & Time
+## Day 4: Contrail Probabilities with Respect to Longitude, Altitude + Time
 
-Last post, we looked at where contrails form and at what altitudes in Australia. 
+On day 3, we looked at where contrails form and at what altitudes in Australia during winter months. 
 
-We saw that the probabilities for contrails forming was significantly higher over the Southern Ocean (area extending from Australia's southern coast to Antarctica - an area with little aviation traffic). However, it is important to keep in mind that the dataset only indicates the probability for contrail formation and does not indicate whether any aircraft flew there. 
+We saw that the probabilities for contrails formation was significantly higher over the Southern Ocean (area from Australia's southern coast to Antarctica) which was interesting given the little aviation traffic there. However, it is important to keep in mind that the dataset only indicates the probability for contrail formation and does not indicate whether any aircraft flew there. 
 
-In this post, we will re-examine the plots in the last post, but see if we can gain further insight by breaking the plots down in terms of longitude, flight level and time of day.
+In this post, we will re-examine these plots, but see if we can gain further insight by breaking the plots down in terms of longitude, flight level and time of day.
 
 ---
 
-Our first plot is a heatmap which has aggregated the data to compare altitude (FL) vs longitude.  The following table gives some context on longitude values:
+Plots 1 and 2 are heatmaps which aggregate the data to compare Mean Contrail Probability and Contrail Frequency (created in day 3) against longitude values. The following table gives some context on longitude values:
 
 | Latitude | Geography |
 |----------|-----------|

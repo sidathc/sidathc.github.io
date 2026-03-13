@@ -1,8 +1,12 @@
-## Kickstarting My Project + First Look at Data
+## Day 1: Kickstarting My Project + First Look at Data
 
-Welcome to my website where I document my progress! The first task I did was to setup the Google Contrails API, which provides valuable data on longitude, latitude, flight level, datetime, and contrail forcing index values. To make it easier to analyse some data, I imported a week's worth of data into a simple, local SQLite database. After successfully running that, I imported a week's worth of data in around 6 hour intervals and ran some SQL queries to verify this.
+Here's where I get started on my contrails journey!
 
-I created a notebook 1 ipynb file to do some preliminary analysis on the dataset by generating some plots including:
+To begin, I setup the Google Contrails API, which returns a dataset containing longitude, latitude, altitude (flight level), datetime, and contrail forcing index values. The provided sample code on the website allowed me to practice requesting data for one specific datetime.
+
+I then modified the code to import a week's worth of data into a simple, local SQLite database in around 6-hour intervals. I verified the data had been imported using SQL queries.
+
+Then I generated some plots from the data to get some first glimpses into what the data looks like:
 
 ### Average Contrail Probability by Hour of Day
 ![Contrail altitude distribution](/assets/images/day1_plot1.png)
@@ -16,4 +20,4 @@ I created a notebook 1 ipynb file to do some preliminary analysis on the dataset
 ### Contrail Probability by Location 
 ![Contrail altitude distribution](/assets/images/day1_plot4.png)
 
-These plots were interesting as a first glance for some familiarity with the dataset and revealed some interesting trends, which will be interesting to note later on whether these will remain the same after importing a larger set of data from the API, or whether I will see very different trends when narrowing it down to Australia. 
+An interesting first glimpse at the data I will be working with, which is already showing some trends! I will be curious to see whether these larger trends in the dataset will remain the same after importing a larger set of data from the API, or if things will change significantly when I narrow the dataset to Australia.
