@@ -48,12 +48,16 @@ We can also further examine the results of this bar plot by splitting it into di
 
 Both plots reveal midnight to be the peak, with the Southern Ocean band dominating by 3-7x at every UTC hour. Noon is the trough. 
 
-The above results leave some questions and food for thought:
+The above results leave some questions and food for thought that I will research:
 
-* Does the midnight peak and noon trough in the plot make sense meteorologically? What are the implications of this given the low amount of air traffic at late night in Australia (due to curfews, etc)
-* What are the implications of the contrail layer shifting upwards as you move up north?
+**Does the midnight peak and noon trough in the plot make sense meteorologically?**
 
-More to be added on this page later!
+Online sources tend to state that contrail formation peaks in the early morning, when the cool air provides the best conditions for water vapour in the jet exhaust to freeze into crystals. However, it isn't exactly specified whether this is shortly after midnight, or at around sunrise, which is when air is generally at its coolest.
+
+I will be curious to explore the implications of these observations. What are the implications of time of day and contrail formations given the low amount of air traffic at late night in Australia? How do policies affect this (e.g. curfews)? 
+
+What are the implications of the contrail layer shifting upwards as you move up north in Australia?
+
 
 
 
