@@ -1,4 +1,4 @@
-## Day 1: Kickstarting My Project + First Look at Data
+## Entry 1: Kickstarting My Project + First Look at Data
 
 Here's where I get started on my contrails journey!
 

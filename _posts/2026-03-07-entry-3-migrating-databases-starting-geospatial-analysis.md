@@ -1,4 +1,4 @@
-## Day 3: Migrating Databases + Starting Geospatial Analysis
+## Entry 3: Migrating Databases + Starting Geospatial Analysis
 
 So far, I've been using a local SQLite database imported from Google Contrails API to store my week's worth of data to take a first glimpse. As I thought of making my dataset bigger, I started thinking of better ways to store this data.
 
