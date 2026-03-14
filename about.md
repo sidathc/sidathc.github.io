@@ -4,13 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## What Are Contrails?
-
-Contrails, or condensation trails, are those white lines you see in the sky sometimes created by aircraft. They are the result of hot, humid air from jet engine exhaust mixing with the extremely cold air at high altitudes.
-
-In addition to the CO2 emissions created by commercial aircraft, contrails from jet engines also contribute to global warming by trapping heat.
-
-
 ## About This Blog
 Most of the research on contrail formation has focused on Europe and North America. 
 
@@ -20,7 +13,7 @@ Growing up in Australia, I saw first-hand the reliance on long-haul air travel d
 
 ## About the Author
 
-Hi, I'm **Sidath Chandrasena** — I am a software engineer who is passionate about the intersection between aviation and sustainability. 
+Hi, I'm **Sidath Chandrasena** — I am a software engineer who recently graduated with a dual degree in Integrative Engineering & International Studies and minor in Data Science. I love interdisciplinary learning, and enjoy getting to mix my childhood interest in aviation with my love for environment and sustainability. 
 
 You can find me on:
 - **GitHub:** [sidathc](https://github.com/sidathc)
