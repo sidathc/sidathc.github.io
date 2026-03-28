@@ -34,10 +34,8 @@ Growing up in Australia, I saw first-hand that reliance on air travel. **Contrai
 
 ### References
 
-<small>
-<a name="ref1">[1]</a> RMI — [Aviation Contrails: What We Know and What We Don't About This Warming Phenomenon](https://rmi.org/aviation-contrails-what-we-know-and-what-we-dont-about-this-warming-phenomenon/)
-
-<a name="ref2">[2]</a> EESI — [Fact Sheet: The Growth in Greenhouse Gas Emissions from Commercial Aviation](https://www.eesi.org/papers/view/fact-sheet-the-growth-in-greenhouse-gas-emissions-from-commercial-aviation)
-
-<a name="ref3">[3]</a> Google Research — [Project Contrails](https://sites.research.google/gr/contrails/)
-</small>
+<div class="references">
+  <p><a name="ref1">[1]</a> RMI — <a href="https://rmi.org/aviation-contrails-what-we-know-and-what-we-dont-about-this-warming-phenomenon/">Aviation Contrails: What We Know and What We Don't About This Warming Phenomenon</a></p>
+  <p><a name="ref2">[2]</a> EESI — <a href="https://www.eesi.org/papers/view/fact-sheet-the-growth-in-greenhouse-gas-emissions-from-commercial-aviation">Fact Sheet: The Growth in Greenhouse Gas Emissions from Commercial Aviation</a></p>
+  <p><a name="ref3">[3]</a> Google Research — <a href="https://sites.research.google/gr/contrails/">Project Contrails</a></p>
+</div>
