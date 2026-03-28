@@ -1,5 +1,5 @@
 ---
-preview_image: entry_1_heatmap.png
+preview_image: entry_1_daily.png
 excerpt: Setting up the Google Contrails API and importing a week of data — first look at hourly trends, flight levels, and geographic distribution of contrail probability.
 ---
 

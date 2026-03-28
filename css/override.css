@@ -179,6 +179,39 @@ hr {
   max-width: 100%;
 }
 
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.2em 0;
+  background-color: #ffffff;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+th {
+  background-color: #2a6fad;
+  color: #ffffff;
+  text-align: left;
+  padding: 0.6em 1em;
+  font-size: 0.9em;
+}
+
+td {
+  padding: 0.55em 1em;
+  border-bottom: 1px solid #e4ecf5;
+  font-size: 0.9em;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:nth-child(even) td {
+  background-color: #f5f8fd;
+}
+
 /* References section */
 .references {
   font-size: 0.8em;
