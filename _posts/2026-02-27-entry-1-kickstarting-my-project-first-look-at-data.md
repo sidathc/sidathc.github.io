@@ -1,3 +1,8 @@
+---
+preview_image: entry_1_geographic.png
+excerpt: Setting up the Google Contrails API and importing a week of data — first look at hourly trends, flight levels, and geographic distribution of contrail probability.
+---
+
 ## Entry 1: Kickstarting My Project + First Look at Data
 
 Here's where I get started on my contrails journey!

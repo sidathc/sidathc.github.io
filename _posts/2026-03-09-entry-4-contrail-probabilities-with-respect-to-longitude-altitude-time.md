@@ -1,3 +1,8 @@
+---
+preview_image: entry_5_alt_lat_mean.png
+excerpt: Breaking down contrail probability by latitude, flight level, and time of day — and why the Southern Ocean dominates risk at every UTC hour.
+---
+
 ## Entry 4: Contrail Probabilities with Respect to Longitude, Altitude + Time
 
 In Entry 3, we looked at where contrails form and at what altitudes in Australia during winter months. 

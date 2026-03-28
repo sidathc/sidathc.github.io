@@ -1,3 +1,8 @@
+---
+preview_image: entry_2_geographic.png
+excerpt: Filtering the dataset to the Australian continent using a geographic bounding box and comparing the results with the global dataset.
+---
+
 ## Entry 2: Narrowing it down to Australia
 
 Seeing some trends from the Contrails dataset was pretty exciting! I wanted to get another look at my first small dataset by narrowing the week's worth of data to Australia.

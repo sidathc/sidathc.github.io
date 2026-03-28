@@ -1,3 +1,8 @@
+---
+preview_image: entry_6_overlay.png
+excerpt: Overlaying real ADS-B flight traffic data on contrail risk maps — where do Australia's busiest corridors actually intersect with high contrail probability?
+---
+
 ## Entry 6: Adding in Flight Data
 
 In the last few posts, we looked at purely contrail formation probability based on altitudes and coordinates. In this post, we're going to add a flight traffic layer to move from "where do contrails form" to "where do contrails form where there is high air traffic?".

@@ -4,8 +4,6 @@ title: What are contrails?
 permalink: /what-are-contrails/
 ---
 
-## What Are Contrails?
-
 Contrails (or condensation trails) are those white lines you see in the sky sometimes created by aircraft. They are the result of hot, humid air from jet engine exhaust mixing with the extremely cold air at high altitudes.
 
 How long a contrail lingers in the air depends on the surrounding atmospheric conditions and the amount of water vapour that has turned into ice. Higher humidity creates better conditions for contrails to remain. As a result, it may either evaporate into the surrounding atmosphere, or the ice particles will grow in size taking more water from the surrounding atmosphere. 

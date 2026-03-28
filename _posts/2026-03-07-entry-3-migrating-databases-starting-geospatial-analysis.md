@@ -1,3 +1,8 @@
+---
+preview_image: entry_4_hotspot_mean.png
+excerpt: Migrating to PostgreSQL for a 60-day Australian dataset, then mapping contrail hotspots geospatially — where contrails form most frequently and intensely across the continent.
+---
+
 ## Entry 3: Migrating Databases + Starting Geospatial Analysis
 
 So far, I've been using a local SQLite database imported from Google Contrails API to store my week's worth of data to take a first glimpse. As I thought of making my dataset bigger, I started thinking of better ways to store this data.
