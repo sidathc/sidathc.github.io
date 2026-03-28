@@ -28,3 +28,33 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<div id="lightbox-overlay" role="dialog" aria-modal="true">
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+  (function () {
+    var overlay = document.getElementById('lightbox-overlay');
+    var lightboxImg = document.getElementById('lightbox-img');
+
+    document.querySelectorAll('.post-content img').forEach(function (img) {
+      img.addEventListener('click', function () {
+        lightboxImg.src = img.src;
+        lightboxImg.alt = img.alt;
+        overlay.classList.add('active');
+        document.body.style.overflow = 'hidden';
+      });
+    });
+
+    overlay.addEventListener('click', close);
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') close();
+    });
+
+    function close() {
+      overlay.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+  })();
+</script>
