@@ -180,7 +180,8 @@ hr {
 }
 
 /* Tables */
-table {
+.post-content table,
+.page-content table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.2em 0;
@@ -190,7 +191,8 @@ table {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
-th {
+.post-content th,
+.page-content th {
   background-color: #2a6fad;
   color: #ffffff;
   text-align: left;
@@ -198,17 +200,20 @@ th {
   font-size: 0.9em;
 }
 
-td {
+.post-content td,
+.page-content td {
   padding: 0.55em 1em;
   border-bottom: 1px solid #e4ecf5;
   font-size: 0.9em;
 }
 
-tr:last-child td {
+.post-content tr:last-child td,
+.page-content tr:last-child td {
   border-bottom: none;
 }
 
-tr:nth-child(even) td {
+.post-content tr:nth-child(even) td,
+.page-content tr:nth-child(even) td {
   background-color: #f5f8fd;
 }
 
