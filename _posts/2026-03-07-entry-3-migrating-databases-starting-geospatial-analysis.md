@@ -38,7 +38,7 @@ From an initial look at the dataset, it was found that **97.1%** of contrail_pro
 These 2 variables were then represented spatially using GeoPandas, shapefiles of Australia and coordinates of major cities using the longitudes & latitudes, resulting in these plots:
 
 ### Plot 1: Mean Contrail Probability
-![Mean Contrail Probability](/assets/images/entry_4_hotspot_mean.png)
+![Mean Contrail Probability Hotspot Map](/assets/images/entry_4_hotspot_mean.png)
 
 
 ### Plot 2: Contrail Frequency
