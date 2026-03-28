@@ -3,17 +3,17 @@ preview_image: entry_5_alt_lat_mean.png
 excerpt: Breaking down contrail probability by latitude, flight level, and time of day — and why the Southern Ocean dominates risk at every UTC hour.
 ---
 
-## Entry 4: Contrail Probabilities with Respect to Longitude, Altitude + Time
+## Entry 4: Contrail Probabilities with Respect to Latitude, Altitude + Time
 
 In Entry 3, we looked at where contrails form and at what altitudes in Australia during winter months. 
 
 We saw that the probabilities for contrails formation was significantly higher over the Southern Ocean (area from Australia's southern coast to Antarctica) which was interesting given the little aviation traffic there. However, it is important to keep in mind that the dataset only indicates the probability for contrail formation and does not indicate whether any aircraft flew there. 
 
-In this post, we will re-examine these plots, but see if we can gain further insight by breaking the plots down in terms of longitude, flight level and time of day.
+In this post, we will re-examine these plots, but see if we can gain further insight by breaking the plots down in terms of latitude, flight level and time of day.
 
 ---
 
-Plots 1 and 2 are heatmaps which aggregate the data to compare Mean Contrail Probability and Contrail Frequency (created in Entry 3) against longitude values. The following table gives some context on longitude values:
+Plots 1 and 2 are heatmaps which aggregate the data to compare Mean Contrail Probability and Contrail Frequency (created in Entry 3) against latitude values. The following table gives some context on latitude values:
 
 | Latitude | Geography |
 |----------|-----------|
@@ -44,24 +44,28 @@ In addition to altitudes, we can also look at how the time of day may change the
 ![Overall Diurnal Contrail Signal](/assets/images/entry_5_diurnal_overall.png)
 
 
-As we see above in Plots 3 and 4, there are noticeable differences in the bar plots, so conditions are not uniform in time, with probability highest at around midnight.
+As we see above in Plots 3 and 4, there are noticeable differences in the bar plots, so conditions are not uniform in time, with probability highest at around midnight UTC, which translates to around 10am-12pm AEST.
 
 We can also further examine the results of this bar plot by splitting it into different latitudes as discussed above:
 
 ### Plot 4: Diurnal Signal by Latitude Band
 ![Diurnal Contrail Signal by Latitude Band](/assets/images/entry_5_diurnal_by_band.png)
 
-Both plots reveal midnight to be the peak, with the Southern Ocean band dominating by 3-7x at every UTC hour. Noon is the trough. 
+Both plots reveal midnight UTC to be the peak, with the Southern Ocean band dominating by 3-7x at every UTC hour. Noon which translates to around 10pm-12am midnight AEST is the trough. 
 
-The above results leave some questions and food for thought that I will research:
+### The main takeaway
+From what we have, we observed that contrail formation conditions are the highest during the morning and lowest late at night. How does this compare to what is mentioned online?
 
-**Does the midnight peak and noon trough in the plot make sense meteorologically?**
+It is found that the season with the highest amount of contrails is winter, which is when this dataset was recorded.<sup>[[1]](#ref1)</sup> Early morning flights tend to create "cooling contrails" as some of the incoming sunlight is reflected back into space<sup>[[2]](#ref2)</sup> while late night flights create contrails with the highest warming contribution.<sup>[[1]](#ref1)</sup> This demonstrates how contrail formation conditions do not necessarily equate to high amounts of warming.
 
-Online sources tend to state that contrail formation peaks in the early morning, when the cool air provides the best conditions for water vapour in the jet exhaust to freeze into crystals. However, it isn't exactly specified whether this is shortly after midnight, or at around sunrise, which is when air is generally at its coolest.
+---
 
-I will be curious to explore the implications of these observations. What are the implications of time of day and contrail formations given the low amount of air traffic at late night in Australia? How do policies affect this (e.g. curfews)? 
+### References
 
-What are the implications of the contrail layer shifting upwards as you move up north in Australia?
+<div class="references">
+  <p><a name="ref1">[1]</a> Transport & Environment — <a href="https://www.transportenvironment.org/articles/contrail-avoidance">Contrail Avoidance</a></p>
+  <p><a name="ref2">[2]</a> Carbon Direct — <a href="https://www.carbon-direct.com/insights/contrails-major-climate-impact-major-opportunity">Contrails: Major Climate Impact, Major Opportunity</a></p>
+</div>
 
 
 

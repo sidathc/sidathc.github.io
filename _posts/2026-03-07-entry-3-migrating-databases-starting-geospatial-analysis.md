@@ -29,7 +29,9 @@ Looks ready for some more analysis!
 ## Analysis
 Now we have around 2 month's worth of data, we can look into contrail formation in Australia during the winter period.
 
-From an initial look at the dataset, it was found that **97.1%** of contrail_probability values were found to be zero. To get meaningful results from the data, two variables were created to quantify the frequency and intensity of contrails.
+From an initial look at the dataset, it was found that **97.1%** of contrail_probability values were found to be zero. It is important to note here that this is not measured data, but a ML model's output trained on atmospheric data. So this may reflect the model's limitations in data-sparse regions rather than the actual atmospheric conditions.
+
+To get more meaningful results from the data, two variables were created to quantify the frequency and intensity of contrails.
 
 **Mean contrail probability:**  Filters to rows where contrail_probability > 0 then averaging within groups. Answers question of: how intense are contrails when they form?
 

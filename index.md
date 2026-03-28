@@ -6,4 +6,4 @@ layout: home
 <p class="photo-credit">Photo by <a href="https://unsplash.com/@gabrielanatielloartgallery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriela Natiello</a> on <a href="https://unsplash.com/photos/an-airplane-is-flying-in-the-blue-sky-_ciDodax1Ks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
 
 ## Welcome!
-What are those white lines in the air you see when planes fly in the air? This website will document my findings as I look at where, when and why contrails form in Australian skies.
+What are those white lines in the air next to planes? This website will document my findings as I look at where, when and why contrails form in Australian skies.
