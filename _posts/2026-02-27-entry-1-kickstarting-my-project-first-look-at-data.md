@@ -9,15 +9,15 @@ I then modified the code to import a week's worth of data into a simple, local S
 Then I generated some plots from the data to get some first glimpses into what the data looks like:
 
 ### Average Contrail Probability by Hour of Day
-![Contrail altitude distribution](/assets/images/day1_plot1.png)
+![Contrail altitude distribution](/assets/images/entry_1_hourly.png)
 
 ### Contrail Probability by Day of Week
-![Contrail altitude distribution](/assets/images/day1_plot2.png)
+![Contrail altitude distribution](/assets/images/entry_1_daily.png)
 
 ### Contrail Probability by Flight Level
-![Contrail altitude distribution](/assets/images/day1_plot3.png)
+![Contrail altitude distribution](/assets/images/entry_1_altitude.png)
 
-### Contrail Probability by Location 
-![Contrail altitude distribution](/assets/images/day1_plot4.png)
+### Contrail Probability by Location
+![Contrail altitude distribution](/assets/images/entry_1_geographic.png)
 
 An interesting first glimpse at the data I will be working with, which is already showing some trends! I will be curious to see whether these larger trends in the dataset will remain the same after importing a larger set of data from the API, or if things will change significantly when I narrow the dataset to Australia.

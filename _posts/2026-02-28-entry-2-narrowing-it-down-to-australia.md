@@ -5,16 +5,16 @@ Seeing some trends from the Contrails dataset was pretty exciting! I wanted to g
 I did this by creating a bounding box based on the coordinates of the Australian continent and generated the same plots from day 1 with the filtered data:
 
 ### Average Contrail Probability by Hour of Day
-![Contrail altitude distribution](/assets/images/day2_plot1.png)
+![Contrail altitude distribution](/assets/images/entry_2_hourly.png)
 
 ### Contrail Probability by Day of Week
-![Contrail altitude distribution](/assets/images/day2_plot2.png)
+![Contrail altitude distribution](/assets/images/entry_2_daily.png)
 
 ### Contrail Probability by Flight Level
-![Contrail altitude distribution](/assets/images/day2_plot3.png)
+![Contrail altitude distribution](/assets/images/entry_2_altitude.png)
 
-### Contrail Probability by Location 
-![Contrail altitude distribution](/assets/images/day2_plot4.png)
+### Contrail Probability by Location
+![Contrail altitude distribution](/assets/images/entry_2_geographic.png)
 
 Although it is very early to tell if these results mean much, it is still interesting to see the differences between the Entry 2 and Entry 1 plots. 
 

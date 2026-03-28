@@ -33,11 +33,11 @@ From an initial look at the dataset, it was found that **97.1%** of contrail_pro
 These 2 variables were then represented spatially using GeoPandas, shapefiles of Australia and coordinates of major cities using the longitudes & latitudes, resulting in these plots:
 
 ### Plot 1: Mean Contrail Probability
-![Mean Contrail Probability](/assets/images/day_4_hotspot_mean.png)
+![Mean Contrail Probability](/assets/images/entry_4_hotspot_mean.png)
 
 
 ### Plot 2: Contrail Frequency
-![Contrail Frequency](/assets/images/day_4_hotspot_frequency.png)
+![Contrail Frequency](/assets/images/entry_4_hotspot_frequency.png)
 
 
 Plots 1 and 2 show that both intensity and frequency of contrail formation are concentrated towards the south of the continent, with some interesting activity in the North to a lesser extent.
@@ -45,12 +45,12 @@ Plots 1 and 2 show that both intensity and frequency of contrail formation are c
 
 ### Plot 3: Altitude Profile
 Shows contrail formation likelihood across the 18 flight levels in Contrails API dataset:
-![Altitude Profile](/assets/images/day_4_altitude_profile.png)
+![Altitude Profile](/assets/images/entry_4_altitude_profile.png)
 
 Between FL270-FL440, notable altitudes for contrail frequency and intensity appear to be at FL330 (33,000 ft), FL340 (34,000 ft), FL350 (35,000 ft) and FL440 (44,000 ft).
 
 ### Plot 4: Hotspot Maps by Flight Level Band
-![Hotspot Maps by Flight Level Band](/assets/images/day_4_band_maps.png)
+![Hotspot Maps by Flight Level Band](/assets/images/entry_4_band_maps.png)
 
 The above is probably the most interesting plot in my opinion! It reveals that the hotspot locations are altitude dependent, with higher likelihood for contrail formation near Antarctica at a mid-cruise altitude (34-39,000 ft) while higher concentrations near Darwin and Northern Queensland are at an upper cruising altitude between 40-44,000 ft. This is super insightful!
 

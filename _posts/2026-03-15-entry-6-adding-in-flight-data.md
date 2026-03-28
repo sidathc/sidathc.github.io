@@ -8,7 +8,7 @@ We have four cool plots generated from overlaying the ADS-B data on top of our e
 
 ### Plot 1: Side-by-Side: Contrail Frequency vs. Flight Density
 
-![Mean Contrail Probability](/assets/images/day_6_side_by_side.png)
+![Mean Contrail Probability](/assets/images/entry_6_side_by_side.png)
 
 The left plot is the same one from last post to compare. The right plot contains the same map but with flight traffic from today. 
 
@@ -20,7 +20,7 @@ These observations can be seen clearer in Plot 2 below, where we overlay both ma
 
 ### Plot 2: Overlay: Flight Corridors on Contrail Risk Background
 
-![Mean Contrail Probability](/assets/images/day_6_overlay.png)
+![Mean Contrail Probability](/assets/images/entry_6_overlay.png)
 
 The main takeaway from all of this is that Australia's busiest flight paths are not where contrail formation is most likely to happen, at least based on the current dataset collected in winter 2025. Even if we were to predict flight levels to avoid contrail-likely zones, this would not affect the busiest flight corridors in Australia.
 
@@ -29,7 +29,7 @@ The main takeaway from all of this is that Australia's busiest flight paths are 
 
 This plot provides an indicator of prioritisation for avoidance effort. Each grid cell is scored as: exposure = normalised_flight_density × normalised_contrail_frequency. Dark orange/red = busy AND risky.
 
-![Mean Contrail Probability](/assets/images/day_6_exposure.png)
+![Mean Contrail Probability](/assets/images/entry_6_exposure.png)
 
 This presents some interesting results where the two (contrail formation and flight density might overlap). The peak cell was found at -36.25°S, 148.00°E with an exposure score of 0.123, which is Snowy Mountains / Monaro Tablelands and is a part of the Sydney-Melbourne route, which is the 6th most travelled route worldwide!
 
@@ -42,7 +42,7 @@ Northern Territory is completely blank which is also worth nothing. Anecdotally 
 
 The left plot is from last post with the different altitudes distributions shown by contrail risk probability. On the right we have the distribution based on flight traffic to compare. 
 
-![Mean Contrail Probability](/assets/images/day_6_fl_comparison.png)
+![Mean Contrail Probability](/assets/images/entry_6_fl_comparison.png)
 
 Earlier we observed that FL340-FL390 is where contrail risk peaks for mid-latitudes. The right plot shows that commercial flights mostly (presumably cruise) at FL340-FL390, which overlaps with the contrail risk peak flight levels.
 
@@ -53,7 +53,7 @@ Questions for next time:
 
 * These snapshots were taken between 10:21 to 11:01 AEST. How do these compare at night or over a longer timeframe?
 
-These questions are to be answered soon. Stay tuned!
+These questions are to be answered soon. Stay tuned!pas
 
 
 
