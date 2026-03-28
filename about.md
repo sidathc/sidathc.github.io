@@ -26,7 +26,6 @@ Australia is comparatively underexplored, despite having a unique atmospheric en
 
 My research questions continue to evolve as I create each new post and gain more knowledge. For now, this project focuses on understanding which regions in Australia have the highest air traffic and where contrail formation probability is most likely, and if they coincide. Then exploring what strategies could be used to prevent contrails forming from commercial aircraft exhaust.
 
-
 ### About the author
 
 My name is **Sidath Chandrasena**. I am a recent graduate with a dual degree in Integrative Engineering and International Studies with a minor in Data Science from Lafayette College. I work as a software engineer and this project combines my background in data and my long-standing interest in aviation and the environment. The analysis is built on Python, PostgreSQL, and GeoPandas, using Google Contrails API and OpenSky Network.

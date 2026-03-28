@@ -3,9 +3,9 @@ preview_image: entry_5_alt_lat_mean.png
 excerpt: Breaking down contrail probability by latitude, flight level, and time of day — and why the Southern Ocean dominates risk at every UTC hour.
 ---
 
-## Entry 4: Contrail Probabilities with Respect to Latitude, Altitude + Time
+## Entry 3: Contrail Probabilities with Respect to Latitude, Altitude + Time
 
-In Entry 3, we looked at where contrails form and at what altitudes in Australia during winter months. 
+In Entry 2, we looked at where contrails form and at what altitudes in Australia during winter months. 
 
 We saw that the probabilities for contrails formation was significantly higher over the Southern Ocean (area from Australia's southern coast to Antarctica) which was interesting given the little aviation traffic there. However, it is important to keep in mind that the dataset only indicates the probability for contrail formation and does not indicate whether any aircraft flew there. 
 
@@ -13,7 +13,7 @@ In this post, we will re-examine these plots, but see if we can gain further ins
 
 ---
 
-Plots 1 and 2 are heatmaps which aggregate the data to compare Mean Contrail Probability and Contrail Frequency (created in Entry 3) against latitude values. The following table gives some context on latitude values:
+Plots 1 and 2 are heatmaps which aggregate the data to compare Mean Contrail Probability and Contrail Frequency (created in Entry 2) against latitude values. The following table gives some context on latitude values:
 
 | Latitude | Geography |
 |----------|-----------|

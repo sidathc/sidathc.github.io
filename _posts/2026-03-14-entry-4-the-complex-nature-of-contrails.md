@@ -2,7 +2,7 @@
 excerpt: Recent research complicates the contrail-avoidance picture — warming estimates vary widely, and cloud interactions may mean some contrails cool rather than heat.
 ---
 
-## Entry 5: The Complex Nature of Contrails
+## Entry 4: The Complex Nature of Contrails
 
 While looking for answers on the relationship between contrails and time of day, I stumbled across [this article](https://www.science.org/content/article/airplane-contrails-may-not-be-climate-villain-once-feared) from science.org.
 
