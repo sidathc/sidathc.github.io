@@ -1,3 +1,27 @@
+/* Global background */
+body {
+  background-color: #f0f5fb;
+}
+
+/* Active nav link */
+.page-link.active {
+  font-weight: 700;
+  color: #2a6fad;
+}
+
+/* Hide large page heading on static pages */
+.page-heading {
+  display: none;
+}
+
+/* Site title font */
+.site-title,
+.site-title:visited {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
 /* Hero banner */
 .hero-banner {
   width: 100%;
