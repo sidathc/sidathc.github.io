@@ -48,10 +48,32 @@ The map reveals that almost all the action is focused on southeastern Australia 
 ![Contrail Risk by Altitude Band](/assets/images/entry_6_band_breakdown.png)
 
 ### Busy Routes vs Risky Zones
+Left: top 15 routes by total annual exposure. Right: top 15 routes by exposure per flight (frequency taken out of the equation).
+
 ![Busy Routes vs Risky Zones](/assets/images/entry_6_exposure_comparison.png)
 
+The Melbourne to Sydney route is Australia's biggest contrail contributor overall with an exposure score of 1,337 and 55,624 flights in 2024. On the right plot however we can see that its per flight score puts it around 8th. So it's not a dangerous route, but given that it is one of the busiest domestic routes in the world, it is flown so often is accumulates more exposure than any other route.
+
+Hobart to Melbourne is the most dangerous route per individual flight with a per-flight risk score of 0.0605, which is 2.5x higher than MEL-SYD's 0.024. Each HBA-MEL flight crosses the Bass Strait on a path that runs almost directly over the cluster of highest-risk cells seen in previous posts. It ranks 3rd in total exposure despite carrying only around a sixth of MEL-SYD's traffic.
+
+
 ### What Factors Determine Contrail Exposure?
+To look into this question, we made 3 scatter plots examining the roles of frequency, seats per flight (aircraft size) and route distance.
+
 ![Factors Driving Contrail Exposure](/assets/images/entry_6_factors.png)
 
-### What does Contrail Avoidance Cost?
-![Contrail Avoidance Cost](/assets/images/entry_6_avoidance_cost.png)
+Plot 1 shows a strong correlation between annual flight count and total exposure. This matches what we saw with SYD-MEL flights where when a route is flown more often, total exposure accumulates. However, this relationship is not purely linear, with an example being HBA-MEL which sits above the trend line because the per-flight risk is so much higher than average.
+
+In Plot 2, as mentioned earlier, routes with few routes (<70) tend to be turboprop planes which results in some scattered results because they actually fly at much lower altitudes below the risk window. The highest per-flight scorers all have 100+ seats, which indicates that they are jet-operated routes. Routes like DPO-MEL score high in exposure but have low seat numbers per flight (turboprop) so the high score reflects Bass Strait geography rather than a real contrail hazard.
+
+Plot 3 shows a positive trend between route distance and per-flight risk. Longer routes will cover more cells and accumulate more risk, but geography matters more than distance and this is not proportional. For example, routes to Perth are long but have a moderate per-flight risk as their track crosses low-risk, arid interior while Tasmanian routes are shorter but score high because every km of their cruise phase is over the Bass Strait risk corridor.
+
+
+## Main Takeaways
+While waiting on ADSB data to load, we were able to get some interesting information using BITRE data along with our Contrails and OpenSky data.
+
+With what we have, we can see examples of how contrail formation risk appears in different ways. In some cases, it is high-risk and low-traffic, and in other cases, it can be low-risk and high-traffic. 
+
+The ADS-B data, when loaded, will provide more supporting information. Particularly to answer questions such as whether the actual paths match the great circles, or if every flight on the same route hits the same risk cells? Some other considerations for future posts include looking at turboprop flights at lower altitudes, and looking at how data at other times in the year (seasonality) affects things.
+
+That's all for now, hope you enjoyed reading this!
