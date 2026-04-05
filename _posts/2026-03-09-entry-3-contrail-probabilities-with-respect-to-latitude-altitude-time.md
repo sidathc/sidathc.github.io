@@ -1,5 +1,5 @@
 ---
-preview_image: entry_5_alt_lat_mean.png
+preview_image: entry_4_alt_lat_mean.png
 excerpt: Breaking down contrail probability by latitude, flight level, and time of day — and why the Southern Ocean dominates risk at every UTC hour.
 ---
 
@@ -29,10 +29,10 @@ Plots 1 and 2 are heatmaps which aggregate the data to compare Mean Contrail Pro
 | 10°S | Northern edge of the data domain, above Cape York |
 
 ### Plot 1: Mean Contrail Probability by Flight Level & Latitude
-![Mean Contrail Probability by Flight Level and Latitude](/assets/images/entry_5_alt_lat_mean.png)
+![Mean Contrail Probability by Flight Level and Latitude](/assets/images/entry_4_alt_lat_mean.png)
 
 ### Plot 2: Contrail Frequency by Flight Level & Latitude
-![Contrail Frequency by Flight Level and Latitude](/assets/images/entry_5_alt_lat_freq.png)
+![Contrail Frequency by Flight Level and Latitude](/assets/images/entry_4_alt_lat_freq.png)
 
 
 Plots 1-2 give some helpful insight by adding flight altitudes in addition to location. It appears that as you move north, the contrail-favourable layer is at higher altitudes. For example, at southern latitudes, we have a peak probability of 0.13-0.15 at FL330–FL350, at mid latitudes, the peak shifts slightly to FL340-360, and in the tropical north, the contrail favourable layer appears at FL380-FL440. 
@@ -41,7 +41,7 @@ Plots 1-2 give some helpful insight by adding flight altitudes in addition to lo
 In addition to altitudes, we can also look at how the time of day may change the level of contrail risk:
 
 ### Plot 3: Overall Diurnal Signal
-![Overall Diurnal Contrail Signal](/assets/images/entry_5_diurnal_overall.png)
+![Overall Diurnal Contrail Signal](/assets/images/entry_4_diurnal_overall.png)
 
 
 As we see above in Plots 3 and 4, there are noticeable differences in the bar plots, so conditions are not uniform in time, with probability highest at around midnight UTC, which translates to around 10am-12pm AEST.
@@ -49,7 +49,7 @@ As we see above in Plots 3 and 4, there are noticeable differences in the bar pl
 We can also further examine the results of this bar plot by splitting it into different latitudes as discussed above:
 
 ### Plot 4: Diurnal Signal by Latitude Band
-![Diurnal Contrail Signal by Latitude Band](/assets/images/entry_5_diurnal_by_band.png)
+![Diurnal Contrail Signal by Latitude Band](/assets/images/entry_4_diurnal_by_band.png)
 
 Both plots reveal midnight UTC to be the peak, with the Southern Ocean band dominating by 3-7x at every UTC hour. Noon which translates to around 10pm-12am midnight AEST is the trough. 
 

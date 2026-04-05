@@ -1,9 +1,131 @@
 ---
-layout: home
+layout: default
 ---
 
-<div class="hero-banner" style="background-image: url('/assets/images/gabriela-natiello-_ciDodax1Ks-unsplash.jpg');"></div>
-<p class="photo-credit">Photo by <a href="https://unsplash.com/@gabrielanatielloartgallery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriela Natiello</a> on <a href="https://unsplash.com/photos/an-airplane-is-flying-in-the-blue-sky-_ciDodax1Ks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+<link href="/css/override.css" rel="stylesheet" type="text/css">
 
-## Welcome!
-What are those white lines in the air next to planes? This website will document my findings as I look at where, when and why contrails form in Australian skies.
+<div class="portfolio-header">
+  <p class="portfolio-tagline">Projects at the intersection of aviation, sustainability, data and the humanities.</p>
+</div>
+
+<h2 class="section-heading">Projects</h2>
+<div class="project-grid">
+
+  <a class="project-card" href="/contrails-australia/">
+    <div class="project-card-body">
+      <h2 class="project-title">Contrails Australia</h2>
+      <p class="project-desc">An investigation into contrail formation in Australian skies — exploring where, when, and why these ice-crystal trails appear behind aircraft.</p>
+    </div>
+    <div class="project-tags">
+      <span class="tag tag-tool">Python</span>
+      <span class="tag tag-tool">PostgreSQL</span>
+      <span class="tag tag-tool">GeoPandas</span>
+      <span class="tag tag-domain">Aviation</span>
+      <span class="tag tag-domain">Sustainability</span>
+      <span class="tag tag-domain">GIS</span>
+    </div>
+    <div class="project-card-footer">
+      View project &rarr;
+    </div>
+  </a>
+
+  <a class="project-card" href="https://rpubs.com/sidath_c/ia310_final_project" target="_blank" rel="noopener">
+    <div class="project-card-body">
+      <h2 class="project-title">Exploring the Lives of Domestic Helpers in Hong Kong</h2>
+      <p class="project-desc">An R-based geospatial analysis examining where various migrant communities congregate in Hong Kong.</p>
+    </div>
+    <div class="project-tags">
+      <span class="tag tag-tool">R</span>
+      <span class="tag tag-tool">GIS</span>
+      <span class="tag tag-domain">Global Studies</span>
+      <span class="tag tag-domain">Migration</span>
+    </div>
+    <div class="project-card-footer">
+      View project &rarr;
+    </div>
+  </a>
+
+  <a class="project-card" href="https://github.com/sidathc/magazine-web-app" target="_blank" rel="noopener">
+    <div class="project-card-body">
+      <h2 class="project-title">Airline Magazine Database</h2>
+      <p class="project-desc">A web application to track the inventory of my airline magazine collection.</p>
+    </div>
+    <div class="project-tags">
+      <span class="tag tag-tool">Web Dev</span>
+      <span class="tag tag-domain">Aviation</span>
+    </div>
+    <div class="project-card-footer">
+      View project &rarr;
+    </div>
+  </a>
+
+</div>
+
+<h2 class="section-heading">Papers</h2>
+<div class="project-grid">
+
+  <a class="project-card" href="https://drive.google.com/file/d/1t33fj-IdRhns7eL9vo4SPKM8HLIN79FS/view" target="_blank" rel="noopener">
+    <div class="project-card-body">
+      <h2 class="project-title">Assessing the Solution of Biofuels to Curb Commercial Aviation Emissions in Brazil</h2>
+      <p class="project-desc">Using R and Python with open data to estimate the land area required to offset Brazil's 2023 passenger aviation emissions through sustainable aviation fuel.</p>
+    </div>
+    <div class="project-tags">
+      <span class="tag tag-tool">Python</span>
+      <span class="tag tag-tool">R</span>
+      <span class="tag tag-domain">Aviation</span>
+      <span class="tag tag-domain">Sustainability</span>
+      <span class="tag tag-domain">SAF</span>
+    </div>
+    <div class="project-card-footer">
+      Read paper &rarr;
+    </div>
+  </a>
+
+  <a class="project-card" href="https://drive.google.com/file/d/18gMMF69BFTc6Cz17deIFVnTvmxf5kbjR/view" target="_blank" rel="noopener">
+    <div class="project-card-body">
+      <h2 class="project-title">Decision Trees & Logistic Regression to Optimize Airport Operations</h2>
+      <p class="project-desc">Predicting flight delays using binary classification models trained on 25 features from a Kaggle dataset.</p>
+    </div>
+    <div class="project-tags">
+      <span class="tag tag-tool">Python</span>
+      <span class="tag tag-tool">Machine Learning</span>
+      <span class="tag tag-domain">Aviation</span>
+      <span class="tag tag-domain">Operations</span>
+    </div>
+    <div class="project-card-footer">
+      Read paper &rarr;
+    </div>
+  </a>
+
+  <a class="project-card" href="https://drive.google.com/file/d/1PlfJhH2sd0UVa1kSqiUKHm-S5P7bNMhM/view" target="_blank" rel="noopener">
+    <div class="project-card-body">
+      <h2 class="project-title">Sustainable Campus Landscaping at Lafayette College</h2>
+      <p class="project-desc">Using digitised archive maps and Python to trace 40 years of change in campus landscaping and green cover.</p>
+    </div>
+    <div class="project-tags">
+      <span class="tag tag-tool">Python</span>
+      <span class="tag tag-tool">Pandas</span>
+      <span class="tag tag-domain">Sustainability</span>
+      <span class="tag tag-domain">GIS</span>
+    </div>
+    <div class="project-card-footer">
+      Read paper &rarr;
+    </div>
+  </a>
+
+  <a class="project-card" href="https://drive.google.com/file/d/1yZXLGNStuZZpKI5qagCXKu73eeA2IH-_/view?usp=sharing" target="_blank" rel="noopener">
+    <div class="project-card-body">
+      <h2 class="project-title">Identifying Those Onboard the First Mass Migration of Sri Lankans to Australia</h2>
+      <p class="project-desc">A hand-built dataset identifying passengers aboard the S.S. Devonshire's 1882 voyage from Sri Lanka to Australia. Presented at the 2022 Bucknell Research Conference.</p>
+    </div>
+    <div class="project-tags">
+      <span class="tag tag-domain">History</span>
+      <span class="tag tag-domain">Migration</span>
+      <span class="tag tag-domain">Sri Lanka</span>
+    </div>
+    <div class="project-card-footer">
+      Read paper &rarr;
+    </div>
+  </a>
+
+</div>

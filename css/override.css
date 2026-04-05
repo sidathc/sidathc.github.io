@@ -1,3 +1,290 @@
+/* Portfolio landing page */
+.portfolio-header {
+  margin: 2em 0 1.8em;
+}
+
+.portfolio-header h1 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.2em;
+}
+
+.portfolio-tagline {
+  font-size: 1.05em;
+  color: #666;
+  margin-top: 0;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.4em;
+  margin-top: 1em;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  border: 1px solid #dde6f0;
+  border-radius: 8px;
+  padding: 1.6em;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 18px rgba(42, 111, 173, 0.13);
+  transform: translateY(-2px);
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-card-body {
+  flex: 1;
+}
+
+.project-title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.2em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  color: #1a4a7a;
+}
+
+.project-desc {
+  font-size: 0.9em;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.project-card-footer {
+  margin-top: 1.2em;
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #2a6fad;
+}
+
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.9em;
+}
+
+.tag {
+  font-size: 0.72em;
+  font-weight: 500;
+  padding: 0.25em 0.75em;
+  border-radius: 999px;
+  white-space: nowrap;
+  border: 1px solid transparent;
+}
+
+.tag-tool {
+  background-color: #ddf4ff;
+  color: #0969da;
+  border-color: #b6e3ff;
+}
+
+.tag-domain {
+  background-color: #dafbe1;
+  color: #116329;
+  border-color: #aceebb;
+}
+
+.section-heading {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.85em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #aaa;
+  margin-top: 3.5em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* ── Contrails Australia theme ───────────────────────────── */
+body.contrails-theme {
+  background-color: #c9dfef;
+}
+
+body.contrails-theme .site-header {
+  background-color: #b8d3e6;
+  border-bottom: 1px solid #a4c2d8;
+}
+
+body.contrails-theme .site-footer {
+  background-color: #b8d3e6;
+  border-top: 1px solid #a4c2d8;
+  color: #3a5a72;
+}
+
+body.contrails-theme .site-footer a,
+body.contrails-theme .footer-heading,
+body.contrails-theme .contact-list a,
+body.contrails-theme .social-media-list a {
+  color: #1a4a6a;
+}
+
+/* White content card for posts and pages */
+body.contrails-theme .post,
+body.contrails-theme .page-content .home {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 2em 2.5em;
+  box-shadow: 0 2px 16px rgba(0, 50, 100, 0.1);
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+body.contrails-theme .page-content {
+  padding-top: 0.5em;
+  padding-bottom: 1.5em;
+}
+
+body.contrails-theme .wrapper {
+  max-width: 960px;
+}
+
+/* Secondary text */
+body.contrails-theme .post-meta {
+  color: #4a7090;
+}
+
+body.contrails-theme .post-excerpt {
+  color: #4a6070;
+}
+
+body.contrails-theme .photo-credit,
+body.contrails-theme .photo-credit a {
+  color: #5a7a90;
+}
+
+body.contrails-theme .rss-subscribe a {
+  color: #2a6fad;
+}
+
+/* Post list dividers */
+body.contrails-theme .post-preview-card {
+  border-bottom-color: #d0e4f0;
+}
+
+body.contrails-theme hr {
+  border-color: #d0e4f0;
+}
+
+/* Post preview image card on blue background */
+.post-preview-thumb {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 5px;
+  box-shadow: 0 2px 8px rgba(0, 60, 120, 0.12);
+}
+
+/* Accordion (About This Project) */
+.accordion {
+  border: 1px solid #bdd0e8;
+  border-radius: 8px;
+  margin-bottom: 0.7em;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+.accordion summary {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  font-size: 1em;
+  padding: 0.9em 1.2em;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #1a4a7a;
+}
+
+.accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion summary::after {
+  content: '+';
+  font-size: 1.3em;
+  font-weight: 300;
+  color: #7aabc8;
+  transition: transform 0.2s ease;
+}
+
+.accordion[open] summary::after {
+  content: '−';
+}
+
+.accordion summary:hover {
+  background-color: #f0f7ff;
+}
+
+.accordion-body {
+  padding: 0.2em 1.2em 1.1em;
+  border-top: 1px solid #ddeaf5;
+}
+
+.accordion-body p,
+.accordion-body ul {
+  font-size: 0.95em;
+  line-height: 1.7;
+  color: #333;
+  margin-bottom: 0.6em;
+}
+
+/* About Me page */
+.about-me-page {
+  max-width: 680px;
+  margin: 2em auto;
+}
+
+.about-heading {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5em;
+}
+
+.about-me-page h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.1em;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-top: 1.8em;
+  margin-bottom: 0.4em;
+  color: #1a4a7a;
+}
+
+.about-me-page p,
+.about-me-page ul {
+  font-size: 0.95em;
+  line-height: 1.7;
+  color: #444;
+}
+
+.about-links {
+  list-style: none;
+  padding-left: 0;
+}
+
+.about-links li {
+  margin-bottom: 0.3em;
+}
+
 /* Global background */
 body {
   background-color: #f0f5fb;

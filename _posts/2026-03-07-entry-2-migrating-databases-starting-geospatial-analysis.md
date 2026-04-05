@@ -1,5 +1,5 @@
 ---
-preview_image: entry_4_hotspot_mean.png
+preview_image: entry_3_hotspot_mean.png
 excerpt: Migrating to PostgreSQL for a 60-day Australian dataset, then mapping contrail hotspots geospatially — where contrails form most frequently and intensely across the continent.
 ---
 
@@ -40,11 +40,11 @@ To get more meaningful results from the data, two variables were created to quan
 These 2 variables were then represented spatially using GeoPandas, shapefiles of Australia and coordinates of major cities using the longitudes & latitudes, resulting in these plots:
 
 ### Plot 1: Mean Contrail Probability
-![Mean Contrail Probability Hotspot Map](/assets/images/entry_4_hotspot_mean.png)
+![Mean Contrail Probability Hotspot Map](/assets/images/entry_3_hotspot_mean.png)
 
 
 ### Plot 2: Contrail Frequency
-![Contrail Frequency](/assets/images/entry_4_hotspot_frequency.png)
+![Contrail Frequency](/assets/images/entry_3_hotspot_frequency.png)
 
 
 Plots 1 and 2 show that both intensity and frequency of contrail formation are concentrated towards the south of the continent, with some interesting activity in the North to a lesser extent.
@@ -52,12 +52,12 @@ Plots 1 and 2 show that both intensity and frequency of contrail formation are c
 
 ### Plot 3: Altitude Profile
 Shows contrail formation likelihood across the 18 flight levels in Contrails API dataset:
-![Altitude Profile](/assets/images/entry_4_altitude_profile.png)
+![Altitude Profile](/assets/images/entry_3_altitude_profile.png)
 
 Between FL270-FL440, notable altitudes for contrail frequency and intensity appear to be at FL330 (33,000 ft), FL340 (34,000 ft), FL350 (35,000 ft) and FL440 (44,000 ft).
 
 ### Plot 4: Hotspot Maps by Flight Level Band
-![Hotspot Maps by Flight Level Band](/assets/images/entry_4_band_maps.png)
+![Hotspot Maps by Flight Level Band](/assets/images/entry_3_band_maps.png)
 
 The above is probably the most interesting plot in my opinion! It reveals that the hotspot locations are altitude dependent, with higher likelihood for contrail formation near Antarctica at a mid-cruise altitude (34-39,000 ft) while higher concentrations near Darwin and Northern Queensland are at an upper cruising altitude between 40-44,000 ft. This is super insightful!
 

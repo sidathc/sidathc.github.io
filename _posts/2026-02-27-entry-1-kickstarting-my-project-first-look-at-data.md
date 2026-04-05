@@ -1,5 +1,5 @@
 ---
-preview_image: entry_1_daily.png
+preview_image: entry_1a_geographic.png
 excerpt: Setting up the Google Contrails API and importing a week of data — first look at hourly trends, flight levels, and geographic distribution of contrail probability.
 ---
 
@@ -16,19 +16,19 @@ Then I generated some plots from the data to get some first glimpses into what t
 ### Average Contrail Probability by Hour of Day
 With only four times of the day across 6-hour intervals, it is difficult to make any strong observations. But something that can be noticed below is that contrail probability peaks at around 14 UTC which is around midnight AEST. It seems to be lowest at 2 UTC or 12:00 PM noon AEST.
 
-![Average Contrail Probability by Hour of Day](/assets/images/entry_1_hourly.png)
+![Average Contrail Probability by Hour of Day](/assets/images/entry_1a_hourly.png)
 
 ### Contrail Probability by Day of Week
 This plot shows the distribution of contrail probability across the days of the week. There is not significant variation in contrail probability, but it can be observed that Sunday has the lowest and Friday has the highest. 
-![Contrail Probability by Day of Week](/assets/images/entry_1_daily.png)
+![Contrail Probability by Day of Week](/assets/images/entry_1a_daily.png)
 
 ### Contrail Probability by Flight Level
 This is an interestingly shaped plot. A notable altitude for high contrail formation likelihood appears to be between 32,500 ft and 35,000 ft. 
 
-![Contrail Probability by Flight Level](/assets/images/entry_1_altitude.png)
+![Contrail Probability by Flight Level](/assets/images/entry_1a_altitude.png)
 
 ### Contrail Probability by Location
 The bounds are `AUS_BOUNDING_BOX = (-45, 110, -10, 155)` which covers mainland Australia and surrounding waters (Bass Strait, Tasman Sea, part of the Southern Ocean). There is not much diversity in the dots in the heatmap, most of them show a low probability. 
-![Contrail Probability by Geographic Location](/assets/images/entry_1_geographic.png)
+![Contrail Probability by Geographic Location](/assets/images/entry_1a_geographic.png)
 
 Certainly an interesting first glimpse at the data I will be working with, which is already showing some trends! I will be curious to see whether these larger trends in the dataset will remain the same after importing a larger set of data from the API.

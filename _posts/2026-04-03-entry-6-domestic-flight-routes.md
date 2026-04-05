@@ -1,4 +1,5 @@
 ---
+preview_image: entry_6_route_map.png
 excerpt: Zooming in on Australia's domestic flight network — which routes carry the most traffic, and how do they align with contrail-prone skies?
 ---
 

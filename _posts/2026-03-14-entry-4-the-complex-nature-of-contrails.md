@@ -1,4 +1,5 @@
 ---
+preview_image: entry_4_southern_ocean_caveat.png
 excerpt: Recent research complicates the contrail-avoidance picture — warming estimates vary widely, and cloud interactions may mean some contrails cool rather than heat.
 ---
 
