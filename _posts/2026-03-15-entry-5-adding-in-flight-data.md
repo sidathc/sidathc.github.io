@@ -30,11 +30,18 @@ Another cell of interest is −41.00°S, 146.50°E which is over the Bass Strait
 
 ### Plot 3: Altitude Alignment: Are Planes at the Riskiest Flight Levels?
 
-The left plot is from last post with the different altitudes distributions shown by contrail risk probability. On the right we have the distribution based on flight traffic to compare. 
+The left plot is from last post with the different altitudes distributions shown by contrail risk probability. 
+
+The below FL distribution on the right comes from the 20 snapshots of OpenSky data. Each snapshot returns real-time state vector data for every transponder visible to ground receivers. One of these quantities is barometric altitude in metres, which was converted here to ft.
+
+To define whether the track was airborne or not, used these two variables: 
+on_ground == False and FL ≥ 200. There is nothing that identifies a climb or descent, so the distribution is more "where aircraft were observed" rather than cruising altitude.
 
 ![Flight Level Comparison: Contrail Risk vs Flight Density](/assets/images/entry_6_fl_comparison.png)
 
-Earlier we observed that FL340-FL390 is where contrail risk peaks for mid-latitudes. The right plot shows that commercial flights mostly (presumably cruise) at FL340-FL390, which overlaps with the contrail risk peak flight levels.
+An observation that can be made from above is that around 93.6% of flights are observed at FL320-FL400. Even though the data is limited to 20 snapshots observed on one morning in March, aircrafts cruise at certain altitudes by design, so our observations here can provide some useful indication of cruising altitude for further research while we wait for more ADSB data.
+
+In earlier posts, we observed that FL340-FL390 is where contrail risk peaks for mid-latitudes. The above right plot shows that commercial flights observed concentrate in the FL340-390 band, which has some overlap. This is significant because it relates to the potential need for changes to altitude as mentioned on Google.
 
 
 ### Main Takeaway
