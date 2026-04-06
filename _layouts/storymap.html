@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body class="storymap-body">
+<link rel="stylesheet" href="/css/storymap.css">
+
+  <nav class="sm-nav" id="sm-nav">
+    <a href="/" class="sm-nav-back">← All Projects</a>
+    <span class="sm-nav-title">Early Sri Lankan Migration to Australia</span>
+  </nav>
+
+  {{ content }}
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) entry.target.classList.add('visible');
+        });
+      }, { threshold: 0.08 });
+      document.querySelectorAll('.fade-in').forEach(function (el) {
+        observer.observe(el);
+      });
+      var nav = document.getElementById('sm-nav');
+      window.addEventListener('scroll', function () {
+        nav.classList.toggle('scrolled', window.scrollY > 80);
+      });
+    });
+  </script>
+</body>
+</html>
