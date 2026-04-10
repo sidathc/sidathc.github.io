@@ -208,6 +208,13 @@
   display: block;
 }
 
+.sm-split-visual img.sm-img-contain {
+  object-fit: contain;
+  height: auto;
+  max-height: 100%;
+  background: #111e30;
+}
+
 /* image placeholder styling */
 .sm-img-placeholder {
   width: 100%;

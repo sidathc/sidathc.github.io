@@ -74,7 +74,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/henry-caulfield.png" alt="Henry St George Caulfield">
+    <img class="sm-img-contain" src="/assets/images/sri-lankan-migration/henry-caulfield.png" alt="Henry St George Caulfield">
     <span class="sm-img-caption">Photo of Henry St George Caulfield published in 1937</span>
   </div>
 </section>
