@@ -137,7 +137,8 @@ body.contrails-theme .social-media-list a {
 
 /* White content card for posts and pages */
 body.contrails-theme .post,
-body.contrails-theme .page-content .home {
+body.contrails-theme .page-content .home,
+body.contrails-theme .page-content .page {
   background: #ffffff;
   border-radius: 10px;
   padding: 1.2em 2.5em 2em;
@@ -248,7 +249,7 @@ body.contrails-theme hr {
 /* About Me page */
 .about-me-page {
   max-width: 680px;
-  margin: 2em auto;
+  margin: 0 auto;
 }
 
 .about-heading {
@@ -256,17 +257,22 @@ body.contrails-theme hr {
   font-size: 2em;
   font-weight: 700;
   letter-spacing: -0.02em;
-  margin-bottom: 0.5em;
+  margin-top: 0;
+  margin-bottom: 0.2em;
 }
 
+/* match .section-heading style from homepage */
 .about-me-page h2 {
   font-family: 'Space Grotesk', sans-serif;
-  font-size: 1.1em;
+  font-size: 0.85em;
   font-weight: 700;
-  letter-spacing: -0.01em;
-  margin-top: 1.8em;
-  margin-bottom: 0.4em;
-  color: #1a4a7a;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #aaa;
+  margin-top: 2.8em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #e0e0e0;
 }
 
 .about-me-page p,
@@ -274,6 +280,10 @@ body.contrails-theme hr {
   font-size: 0.9em;
   line-height: 1.6;
   color: #555;
+}
+
+.about-me-page a {
+  color: #2a6fad;
 }
 
 .about-links {
