@@ -45,8 +45,12 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 <!-- ═══════════════════════════════════════════════════════
      BLACKBIRDING
      ══════════════════════════════════════════════════════ -->
-<section class="sm-split sm-split-rev">
-  <div class="sm-split-text fade-in">
+<section class="sm-editorial fade-in">
+  <div class="sm-editorial-img-wrap">
+    <img src="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" alt="Kanaka workers in a sugar cane plantation in Queensland">
+    <span class="sm-img-caption">Kanaka workers in a sugar cane plantation in Queensland, late 19th century</span>
+  </div>
+  <div class="sm-editorial-body">
     <h2 class="sm-section-heading">Indentured Labour: A Solution to Blackbirding</h2>
     <div class="sm-body">
       <p>Following the expansion of sugarcane farming in the late 1800s, planters in the sugar industry faced a dilemma. They believed that sugarcane plantation work was unsuitable for Europeans, but did not wish for non-Europeans to come and settle in Queensland.</p>
@@ -54,10 +58,6 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       <p>The poor and arduous conditions of sugarcane plantation work, and the lack of labour contracts to protect the rights of the workers, meant that these workers were effectively treated as slaves and many died on the plantation fields. In the 1870s and 80s, the mortality rate exceeded 6 percent, and in 1885, was just under 10 percent.</p>
       <p>The high mortality rates and opposition from the Anti-Slavery Society in Britain soon made this practice unsustainable, and in the search for cheap, indentured labour, sugarcane planters looked to various parts of Asia, including Ceylon.</p>
     </div>
-  </div>
-  <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" alt="Kanaka workers in a sugar cane plantation in Queensland">
-    <span class="sm-img-caption">Kanaka workers in a sugar cane plantation in Queensland, late 19th century</span>
   </div>
 </section>
 
@@ -75,7 +75,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
     <img class="sm-img-contain" src="/assets/images/sri-lankan-migration/henry-caulfield.png" alt="Henry St George Caulfield">
-    <span class="sm-img-caption">Photo of Henry St George Caulfield published in 1937</span>
+    <span class="sm-img-caption-below">Photo of Henry St George Caulfield published in 1937</span>
   </div>
 </section>
 
@@ -92,35 +92,35 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 <!-- ═══════════════════════════════════════════════════════
      EMIGRATION FACTORS
      ══════════════════════════════════════════════════════ -->
-<section class="sm-split sm-split-rev">
-  <div class="sm-split-text fade-in">
+<section class="sm-editorial fade-in">
+  <div class="sm-editorial-img-wrap">
+    <img src="/assets/images/sri-lankan-migration/coffee-workers-ceylon.jpeg" alt="Workers sorting coffee seeds in Ceylon in the late 1800s">
+    <span class="sm-img-caption">Workers sorting coffee seeds in the late 1800s before the fall of the coffee industry · Source: Lankapura</span>
+  </div>
+  <div class="sm-editorial-body">
     <h2 class="sm-section-heading">Reasons for Emigration</h2>
     <div class="sm-body">
       <p>No mass migration out of Ceylon had occurred in the past century, and scholars cite several factors motivating these migrants to emigrate.</p>
       <p>Swan writes the fall of the coffee industry in the 1870s and 1880s changing the attitudes of many who may not have otherwise decided to embark abroad. Caulfield cites adventurousness, writing that they were <em>'keen on seeing what the outside world was like'</em>.</p>
     </div>
   </div>
-  <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/coffee-workers-ceylon.jpeg" alt="Workers sorting coffee seeds in Ceylon in the late 1800s">
-    <span class="sm-img-caption">Workers sorting coffee seeds in the late 1800s before the fall of the coffee industry · Source: Lankapura</span>
-  </div>
 </section>
 
 <!-- ═══════════════════════════════════════════════════════
      LEGISLATION
      ══════════════════════════════════════════════════════ -->
-<section class="sm-split">
-  <div class="sm-split-text fade-in">
+<section class="sm-editorial fade-in">
+  <div class="sm-editorial-img-wrap">
+    <img src="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" alt="Contract published in the Ceylon Observer in 1882">
+    <span class="sm-img-caption">The contract published in the <em>Ceylon Observer</em> in 1882 · Source: Sparkes, 1988</span>
+  </div>
+  <div class="sm-editorial-body">
     <h2 class="sm-section-heading">Concerns Over Fairness of Contract</h2>
     <div class="sm-body">
       <p>Shortly after the advertisement was published, the Ceylon government grew concerned over the fairness of the contract, given that the wage was £20 without food and lodging when rice, a key staple of the Sinhalese, was heavily taxed in Queensland.</p>
       <p>In response, the Colonial Secretary of Ceylon began correspondence with his counterpart in Queensland inquiring about the contract, and interviewed Caulfield.</p>
       <p>Following the Queensland government's response that the wages were not sufficient for the workers, the Ceylon government began writing legislation, but this was not proclaimed in time before the <em>Devonshire</em> departed Galle on November 18, 1882 for Queensland.</p>
     </div>
-  </div>
-  <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" alt="Contract published in the Ceylon Observer in 1882">
-    <span class="sm-img-caption">The contract published in the <em>Ceylon Observer</em> in 1882 · Source: Sparkes, 1988</span>
   </div>
 </section>
 
@@ -137,8 +137,12 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 <!-- ═══════════════════════════════════════════════════════
      ARRIVAL
      ══════════════════════════════════════════════════════ -->
-<section class="sm-split sm-split-rev">
-  <div class="sm-split-text fade-in">
+<section class="sm-editorial fade-in">
+  <div class="sm-editorial-img-wrap">
+    <img src="/assets/images/sri-lankan-migration/burnett-river-1909.jpg" alt="Burnett River, Bundaberg, 1909">
+    <span class="sm-img-caption">Burnett River, Bundaberg, Queensland, 1909 · Source: State Library of Queensland</span>
+  </div>
+  <div class="sm-editorial-body">
     <h2 class="sm-section-heading">Journey and Reception in Australia</h2>
     <div class="sm-body">
       <p>Although opposition to South Sea Islanders was almost non-existent upon their arrival in Queensland, the success of Chinese migrants in Australia and accounts of Indian workers prospering and competing with locals in British colonies created paranoia and fear about non-European migrants, resulting in the formation of groups titled <strong>'anti-coolie leagues'</strong>.</p>
@@ -147,10 +151,6 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       <p>Unlike in Mackay, Bundaberg had multiple local newspapers engaged in rivalry with one another. The arrival of the new migrants gave the newspapers an opportunity to 'put on show their journalistic skills', causing greater media attention upon their arrival. One newspaper, the <em>Bundaberg Star</em>, announced the arrival of the <em>Devonshire</em> <em>'enclosed in thick, black bands in the manner of an obituary notice'</em>, prompting fear and excitement from locals.</p>
     </div>
   </div>
-  <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/burnett-river-1909.jpg" alt="Burnett River, Bundaberg, 1909">
-    <span class="sm-img-caption">Burnett River, Bundaberg, Queensland, 1909 · Source: State Library of Queensland</span>
-  </div>
 </section>
 
 <!-- ═══════════════════════════════════════════════════════
@@ -158,7 +158,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-dark">
   <div class="sm-dark-inner fade-in">
-    <h2 class="sm-section-heading" style="color:#e8c97a;">The Battle of the Burnett</h2>
+    <h2 class="sm-section-heading sm-heading-gold">The Battle of the Burnett</h2>
     <p>As the migrants disembarked at the head of the Burnett River in Bundaberg and marched to Rubyanna plantation, anti-coolie league members approached them <em>'shouting abuse and raising fists'</em>.</p>
     <p>In response, the migrants <em>'drew out their knives as though prepared to sell their lives dearly'</em>, causing the league members to promptly retreat. This incident was coined the <strong>'Battle of the Burnett'</strong>.</p>
     <p>Although the league members were unsuccessful in their confrontation with the migrants, the 'Battle of the Burnett' was a propaganda victory, as it publicised the planters' attempt to import foreign labour.</p>
@@ -170,18 +170,18 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 <!-- ═══════════════════════════════════════════════════════
      REFUSAL TO WORK
      ══════════════════════════════════════════════════════ -->
-<section class="sm-split">
-  <div class="sm-split-text fade-in">
+<section class="sm-editorial fade-in">
+  <div class="sm-editorial-img-wrap">
+    <img src="/assets/images/sri-lankan-migration/south-sea-islanders-ship.jpg" alt="South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895">
+    <span class="sm-img-caption">South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895 · Source: State Library of Queensland</span>
+  </div>
+  <div class="sm-editorial-body">
     <h2 class="sm-section-heading">Refusal to Work &amp; Fate in Queensland</h2>
     <div class="sm-body">
       <p>As evidenced by newspaper articles and records, many migrants refused to work, instead opting to go to jail. As a result, many workers broke their contracts, and drifted into other parts of Queensland and northern New South Wales. Many found it challenging to work due to the reluctance to hire non-Europeans.</p>
       <p>Those able to afford the return passage returned to Ceylon due to homesickness and oppressive conditions towards non-Europeans in Australia. As most had broken their contracts, many were no longer entitled to the free passage listed on their contracts and remained in Australia after federation in 1901. This is in contrast to many South Sea Islanders that were forcibly deported from Australia under the Pacific Island Labourers Act 1901. Those who remained on the Australian mainland quickly lost their cultural connections and identity.</p>
       <p>Others migrated to Thursday Island in North-Eastern Queensland in the Torres Strait, where a significant number of non-European migration took place due to its proximity to Asia and the pearling industry. The formation of a distinct Sri Lankan community on Thursday Island is documented by Stanley Sparkes and Anna Shnukal in the book <em>Navigating Boundaries</em>.</p>
     </div>
-  </div>
-  <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/south-sea-islanders-ship.jpg" alt="South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895">
-    <span class="sm-img-caption">South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895 · Source: State Library of Queensland</span>
   </div>
 </section>
 
@@ -200,7 +200,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-dark">
   <div class="sm-dark-inner fade-in">
-    <h2 class="sm-section-heading" style="color:#e8c97a;">Digital Project: What happened to the 500 onboard the <em>Devonshire</em>?</h2>
+    <h2 class="sm-section-heading sm-heading-gold">Digital Project: What happened to the 500 onboard the <em>Devonshire</em>?</h2>
     <p>The decision to hire labour from Ceylon and the arrival of the <em>Devonshire</em> are relatively well-documented by primary and secondary sources. This is due to the controversial nature of importing non-European labour at the time and the refusal of many migrants to work, which resulted in heightened media attention.</p>
     <p>Most of the existing information about the migrants is from newspaper articles and records detailing their mishaps with the law, and reveals that they were often perceived as criminals and undesirable additions to Australia's population.</p>
     <p>Therefore, the lack of information about the lives the migrants led after settling in Queensland paints an unbalanced picture of this group, and does not feature those who abided by their contracts or went on to become successful.</p>
@@ -211,10 +211,10 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      RESEARCH QUESTIONS
      ══════════════════════════════════════════════════════ -->
 <section class="sm-pullquote fade-in">
-  <div style="text-align:left; max-width:700px; margin:0 auto;">
-    <p style="font-size:1.05rem; font-weight:600; color:#3a3028; margin-bottom:1.2rem;">In order to address this gap of information, this project aims to answer the following questions:</p>
-    <p style="font-size:1.1rem; font-style:italic; color:#5a4a3a; margin-bottom:1rem;">Why were the Devonshire migrants permitted to remain in Australia at a time when other non-Europeans (such as South Sea Islanders) were forcibly deported?</p>
-    <p style="font-size:1.1rem; font-style:italic; color:#5a4a3a;">What were these migrants' contributions to their local community and society?</p>
+  <div class="sm-research-questions">
+    <p class="sm-rq-intro">In order to address this gap of information, this project aims to answer the following questions:</p>
+    <p class="sm-rq-item">Why were the Devonshire migrants permitted to remain in Australia at a time when other non-Europeans (such as South Sea Islanders) were forcibly deported?</p>
+    <p class="sm-rq-item">What were these migrants' contributions to their local community and society?</p>
   </div>
 </section>
 
@@ -223,7 +223,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-dark">
   <div class="sm-dark-inner fade-in">
-    <h2 class="sm-section-heading" style="color:#e8c97a;">Cultural Context &amp; Explanation of Terms</h2>
+    <h2 class="sm-section-heading sm-heading-gold">Cultural Context &amp; Explanation of Terms</h2>
 
     <p>A majority of the <em>Devonshire</em> migrants were low-country Sinhalese people from Southern/Coastal regions of present-day Sri Lanka. These regions were heavily influenced by Portuguese, Dutch and British colonisation, and as a result, many individuals were Roman Catholic, and follow region-specific naming conventions:</p>
 
@@ -240,18 +240,18 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 <!-- ═══════════════════════════════════════════════════════
      METHODOLOGY
      ══════════════════════════════════════════════════════ -->
-<section class="sm-split sm-split-rev">
-  <div class="sm-split-text fade-in">
+<section class="sm-editorial fade-in">
+  <div class="sm-editorial-img-wrap">
+    <img src="/assets/images/sri-lankan-migration/mackay-harbour.jpg" alt="Mackay Harbour, Mackay, Queensland, 1950">
+    <span class="sm-img-caption">Mackay Harbour, Mackay, Queensland, 1950 · Source: Mackay Regional Council Libraries</span>
+  </div>
+  <div class="sm-editorial-body">
     <h2 class="sm-section-heading">Methodology</h2>
     <div class="sm-body">
       <p>To answer the research questions, I set out on a journey to recreate the missing list of 500 passengers onboard the <em>Devonshire</em>. I looked to the Queensland State Archives, ancestry.com and findagrave.com, and the Coloured Labour and Asiatic Labour Index 1913, which contained some names of those residing in locations such as Townsville &amp; Rockhampton.</p>
       <p>The passenger list of the <em>Devonshire</em> has been lost, and until now, none of the graves of the migrants have been located. Additionally, many of the names have been miswritten and confused with other non-Europeans, such as South Sea Islanders, British Indians or Javanese, making it difficult to identify the migrants.</p>
-      <p>I then assembled a spreadsheet containing date &amp; location of birth/death, occupation, location of burial and cause of death. As a result, I was able to identify around <strong>70 of the 500 Devonshire migrants</strong>. From this list, I have chosen to feature the stories of 25 migrants in an interactive map.</p>
+      <p>I then assembled a spreadsheet containing date &amp; location of birth/death, occupation, location of burial and cause of death. As a result, I was able to identify around <strong>70 of the 500 Devonshire migrants</strong>. From this list, I have chosen to feature the stories of 30 migrants in this project.</p>
     </div>
-  </div>
-  <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/mackay-harbour.jpg" alt="Mackay Harbour, Mackay, Queensland, 1950">
-    <span class="sm-img-caption">Mackay Harbour, Mackay, Queensland, 1950 · Source: Mackay Regional Council Libraries</span>
   </div>
 </section>
 
@@ -281,7 +281,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 <section class="sm-profiles-section">
   <div class="sm-profiles-intro fade-in">
     <h2 class="sm-section-heading" style="text-align:center;">Migrant Profiles</h2>
-    <p style="font-size:1rem; color:#555; line-height:1.75; font-family:'Georgia',serif;">
+    <p class="sm-profiles-desc">
       30 of the ~70 identified <em>Devonshire</em> migrants are profiled here. Most historical records come from newspapers and court documents. Click any portrait to read their story.
     </p>
   </div>
@@ -418,7 +418,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 10 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Peter Appoo"
       data-sin="පීටර් අප්පු"
       data-dates="Born: Unknown, Ceylon · Died: 1916, Gin Gin, Queensland"
@@ -432,7 +432,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 11 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Henry Appoe"
       data-sin="හෙන්රි අප්පු"
       data-dates="Born: 1845, Ceylon · Died: 1924, Dunwich, Queensland"
@@ -446,7 +446,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 12 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Aposenio"
       data-sin="අප්පු සිඤ්ඤෝ (possible)"
       data-dates="Born: 1863, Colombo, Ceylon · Died: 1913, Peel Island, Queensland"
@@ -460,7 +460,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 13 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Alexander Appoo"
       data-sin="ඇලෙක්‌සැන්ඩර් අප්පු"
       data-dates="Born: 1848, Ceylon · Died: 1912, Dunwich, Queensland"
@@ -474,7 +474,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 14 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Matho Appo"
       data-sin="මැතෝ අප්පු (possible)"
       data-dates="Born: 1856, Ceylon · Died: 1942, Dunwich, Queensland"
@@ -488,7 +488,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 15 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="James Appo-Hame"
       data-sin="ජේමිස් අප්පුහාමි"
       data-dates="Born: 1869, Ceylon · Died: 1939, Dunwich, Queensland"
@@ -502,7 +502,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 16 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Uguay Pere"
       data-sin="උක්කුවා පෙරේරා (possible)"
       data-dates="Born: 1863, Colombo, Ceylon · Died: 1937, Dunwich, Queensland"
@@ -516,7 +516,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 17 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Sing Nah 'Seyab' Poo"
       data-sin="සින්නා අප්පු (possible)"
       data-dates="Born: 1855, Ceylon · Died: 1883, Dunwich, Queensland"
@@ -530,7 +530,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 18 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Jim Harmony"
       data-dates="Born: 1861, Ceylon · Died: 1946, Dunwich, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/jim-harmony-form.jpeg"
@@ -543,7 +543,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 19 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Charles Bundia"
       data-sin="චාර්ලිස් බණ්ඩා (possible)"
       data-dates="Born: 1839, Ceylon · Died: 1922, Dunwich, Queensland"
@@ -557,7 +557,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 20 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Mukhan Hassan"
       data-dates="Born: 1856, Ceylon · Died: 1948, Sandgate, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/mukhan-hassan-form.jpeg"
@@ -583,7 +583,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 22 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Sing Appu"
       data-sin="සිඤ්ඤෝ අප්පු (possible)"
       data-dates="Born: Unknown, Ceylon · Died: 1940, Mackay, Queensland"
@@ -611,7 +611,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 24 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="Dinnie Silva"
       data-dates="Born: 1859, Colombo, Ceylon · Died: 1945, Dunwich, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/dinnie-silva-form.jpeg"
@@ -624,7 +624,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
 
     <!-- 25 -->
-    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+    <div class="sm-profile-tile sm-tile-doc fade-in" tabindex="0" role="button"
       data-name="George W. Gango"
       data-dates="Born: 1855, Ceylon · Died: 1947, Brisbane, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/george-gango-form.jpeg"
@@ -641,9 +641,11 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-name="John James Wenitong"
       data-sin="ජෝන් ජේමිස් වනිගතුංග"
       data-dates="Born: 1872, Ceylon · Died: 1946, Gladstone, Queensland"
-      data-img="/assets/images/sri-lankan-migration/profiles/john-wenitong.jpeg"
-      data-bio="&lt;p&gt;John James Wenitong was born in 1872 in Ceylon. He travelled onboard the Devonshire as a family with his parents Harmanis Wanigetunga and Lucy Hamey, and siblings David and Sarah — who later married Kallu (Call) Appoo.&lt;/p&gt;&lt;p&gt;John married Eliza Ann Kathleen Wenitong, and electoral rolls show he worked as a meatworker and resided in Gladstone. He died in 1946.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo uploaded to familysearch.org by Nicholle Perrin.&lt;/em&gt;&lt;/p&gt;">
-      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/john-wenitong.jpeg" alt="John James Wenitong" loading="lazy">
+      data-bio="&lt;p&gt;John James Wenitong was born in 1872 in Ceylon. He travelled onboard the Devonshire as a family with his parents Harmanis Wanigetunga and Lucy Hamey, and siblings David and Sarah — who later married Kallu (Call) Appoo.&lt;/p&gt;&lt;p&gt;John married Eliza Ann Kathleen Wenitong, and electoral rolls show he worked as a meatworker and resided in Gladstone. He died in 1946.&lt;/p&gt;">
+      <div class="sm-profile-tile-initials">
+        <span class="sm-profile-tile-initials-letters">JW</span>
+        <span class="sm-profile-tile-initials-name">John James Wenitong</span>
+      </div>
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">John James Wenitong</span>
         <span class="sm-profile-tile-years">1872 – 1946</span>
