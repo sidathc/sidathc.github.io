@@ -5,7 +5,7 @@ layout: default
 <link href="/css/override.css" rel="stylesheet" type="text/css">
 
 <div class="portfolio-header">
-  <p class="portfolio-tagline">Projects at the intersection of aviation, sustainability, data and the humanities.</p>
+  <p class="portfolio-tagline">Software and data for sustainable aviation and digital humanities.</p>
 </div>
 
 <h2 class="section-heading">Projects</h2>
