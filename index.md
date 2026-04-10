@@ -59,6 +59,23 @@ layout: default
     </div>
   </a>
 
+  <a class="project-card" href="/sri-lankan-migration/">
+    <div class="project-card-body">
+      <h2 class="project-title">Early Sri Lankan Migration to Australia</h2>
+      <p class="project-desc">What happened to the 500 onboard the <em>SS Devonshire</em> in 1882? A digital humanities project tracing the first mass migration of Sri Lankans to Australia. Presented at the 2022 Bucknell Research Conference.</p>
+    </div>
+    <div class="project-tags">
+      <span class="tag tag-domain">History</span>
+      <span class="tag tag-domain">Migration</span>
+      <span class="tag tag-domain">Sri Lanka</span>
+      <span class="tag tag-domain">Digital Humanities</span>
+    </div>
+    <div class="project-card-footer" style="display:flex; gap:1.2em; align-items:center; flex-wrap:wrap;">
+      <span>View story &rarr;</span>
+      <a href="https://drive.google.com/file/d/1yZXLGNStuZZpKI5qagCXKu73eeA2IH-_/view?usp=sharing" target="_blank" rel="noopener" onclick="event.stopPropagation();" style="font-size:0.8em; color:#2a6fad; font-weight:400;">PDF summary ↗</a>
+    </div>
+  </a>
+
 </div>
 
 <h2 class="section-heading">Papers</h2>
@@ -107,21 +124,6 @@ layout: default
       <span class="tag tag-tool">Pandas</span>
       <span class="tag tag-domain">Sustainability</span>
       <span class="tag tag-domain">GIS</span>
-    </div>
-    <div class="project-card-footer">
-      Read paper &rarr;
-    </div>
-  </a>
-
-  <a class="project-card" href="https://drive.google.com/file/d/1yZXLGNStuZZpKI5qagCXKu73eeA2IH-_/view?usp=sharing" target="_blank" rel="noopener">
-    <div class="project-card-body">
-      <h2 class="project-title">Identifying Those Onboard the First Mass Migration of Sri Lankans to Australia</h2>
-      <p class="project-desc">A hand-built dataset identifying passengers aboard the S.S. Devonshire's 1882 voyage from Sri Lanka to Australia. Presented at the 2022 Bucknell Research Conference.</p>
-    </div>
-    <div class="project-tags">
-      <span class="tag tag-domain">History</span>
-      <span class="tag tag-domain">Migration</span>
-      <span class="tag tag-domain">Sri Lanka</span>
     </div>
     <div class="project-card-footer">
       Read paper &rarr;
