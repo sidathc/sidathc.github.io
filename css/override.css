@@ -248,8 +248,7 @@ body.contrails-theme hr {
 
 /* About Me page */
 .about-me-page {
-  max-width: 680px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .about-heading {
