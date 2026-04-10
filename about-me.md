@@ -10,12 +10,10 @@ permalink: /about-me/
 
   <p>I'm a recent graduate of Lafayette College with a dual degree in Engineering and International Studies, and a minor in Data Science. Since childhood I've been fascinated by airplanes and human migration. My goal is to combine these interests using software and data to research and answer real-world questions in sustainable aviation and the social sciences.</p>
 
-  <h2>Background</h2>
-  <p>Growing up in Australia gave me an early appreciation for long-haul aviation and the natural environment. Studying both engineering and international studies pushed me to think across disciplines — not just how things work, but why they matter and for whom. I carry that instinct into everything I build.</p>
-
   <h2>Tools & skills</h2>
   <ul>
-    <li>Languages: Python, R, SQL</li>
+    <li>Languages: Python, R, SQL, Java, JavaScript, MATLAB, LabVIEW</li>
+    <li>Python libraries: Pandas, Plotly, Scikit-learn</li>
     <li>Data & GIS: PostgreSQL, GeoPandas, Google Contrails API, OpenSky Network</li>
     <li>Web: Jekyll, GitHub Pages</li>
   </ul>
