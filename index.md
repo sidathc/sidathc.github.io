@@ -67,12 +67,10 @@ layout: default
     <div class="project-tags">
       <span class="tag tag-domain">History</span>
       <span class="tag tag-domain">Migration</span>
-      <span class="tag tag-domain">Sri Lanka</span>
       <span class="tag tag-domain">Digital Humanities</span>
     </div>
-    <div class="project-card-footer" style="display:flex; gap:1.2em; align-items:center; flex-wrap:wrap;">
-      <span>View story &rarr;</span>
-      <a href="https://drive.google.com/file/d/1yZXLGNStuZZpKI5qagCXKu73eeA2IH-_/view?usp=sharing" target="_blank" rel="noopener" onclick="event.stopPropagation();" style="font-size:0.8em; color:#2a6fad; font-weight:400;">PDF summary ↗</a>
+    <div class="project-card-footer">
+      View project &rarr;
     </div>
   </a>
 
