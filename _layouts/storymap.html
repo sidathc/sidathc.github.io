@@ -11,19 +11,96 @@
 
   {{ content }}
 
+  <!-- Profile modal -->
+  <div id="sm-modal" class="sm-modal" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="sm-modal-backdrop"></div>
+    <div class="sm-modal-card">
+      <button class="sm-modal-close" aria-label="Close">&times;</button>
+      <div class="sm-modal-inner">
+        <div class="sm-modal-image-col">
+          <img class="sm-modal-img" src="" alt="">
+          <div class="sm-modal-img-placeholder"></div>
+        </div>
+        <div class="sm-modal-content-col">
+          <p class="sm-modal-sinhalese"></p>
+          <h2 class="sm-modal-name"></h2>
+          <p class="sm-modal-dates"></p>
+          <div class="sm-modal-bio"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script>
     document.addEventListener('DOMContentLoaded', function () {
+      // Scroll animations
       var observer = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
           if (entry.isIntersecting) entry.target.classList.add('visible');
         });
       }, { threshold: 0.08 });
-      document.querySelectorAll('.fade-in').forEach(function (el) {
-        observer.observe(el);
-      });
+      document.querySelectorAll('.fade-in').forEach(function (el) { observer.observe(el); });
+
+      // Nav shrink
       var nav = document.getElementById('sm-nav');
       window.addEventListener('scroll', function () {
         nav.classList.toggle('scrolled', window.scrollY > 80);
+      });
+
+      // Profile modal
+      var modal      = document.getElementById('sm-modal');
+      var modalImg   = modal.querySelector('.sm-modal-img');
+      var modalPH    = modal.querySelector('.sm-modal-img-placeholder');
+      var modalName  = modal.querySelector('.sm-modal-name');
+      var modalSin   = modal.querySelector('.sm-modal-sinhalese');
+      var modalDates = modal.querySelector('.sm-modal-dates');
+      var modalBio   = modal.querySelector('.sm-modal-bio');
+
+      function openModal(card) {
+        var img    = card.dataset.img   || '';
+        var name   = card.dataset.name  || '';
+        var sin    = card.dataset.sin   || '';
+        var dates  = card.dataset.dates || '';
+        var bio    = card.dataset.bio   || '';
+
+        modalName.textContent  = name;
+        modalSin.textContent   = sin;
+        modalDates.textContent = dates;
+        modalBio.innerHTML     = bio;
+
+        if (img) {
+          modalImg.src = img;
+          modalImg.alt = name;
+          modalImg.style.display = 'block';
+          modalPH.style.display  = 'none';
+        } else {
+          modalImg.style.display = 'none';
+          modalPH.textContent    = name.split(' ').map(function(w){return w[0];}).join('').slice(0,2);
+          modalPH.style.display  = 'flex';
+        }
+
+        modal.setAttribute('aria-hidden', 'false');
+        modal.classList.add('open');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeModal() {
+        modal.classList.remove('open');
+        modal.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+      }
+
+      document.querySelectorAll('.sm-profile-tile').forEach(function (tile) {
+        tile.addEventListener('click', function () { openModal(tile); });
+        tile.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openModal(tile); }
+        });
+      });
+
+      modal.querySelector('.sm-modal-close').addEventListener('click', closeModal);
+      modal.querySelector('.sm-modal-backdrop').addEventListener('click', closeModal);
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') closeModal();
       });
     });
   </script>

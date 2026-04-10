@@ -269,7 +269,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       <div class="sm-stat-label">Migrants identified<br>from historical records</div>
     </div>
     <div class="sm-stat-item">
-      <div class="sm-stat-number">25</div>
+      <div class="sm-stat-number">30</div>
       <div class="sm-stat-label">Profiles featured<br>in this project</div>
     </div>
   </div>
@@ -282,112 +282,431 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
   <div class="sm-profiles-intro fade-in">
     <h2 class="sm-section-heading" style="text-align:center;">Migrant Profiles</h2>
     <p style="font-size:1rem; color:#555; line-height:1.75; font-family:'Georgia',serif;">
-      Most historical records of these migrants come from newspapers reporting disputes with employers or criminal activities. This project aims to provide a more balanced picture. Below are selected profiles from the dataset.
+      30 of the ~70 identified <em>Devonshire</em> migrants are profiled here. Most historical records come from newspapers and court documents. Click any portrait to read their story.
     </p>
   </div>
 
   <div class="sm-profiles-grid">
 
-    <!-- 1. Landamullagay Barmis Singho -->
-    <div class="sm-profile-card fade-in">
-      <div class="sm-profile-photo-wrap">
-        <img class="sm-profile-photo" src="/assets/images/sri-lankan-migration/barmis-singho.png" alt="Landamullagay Barmis Singho">
-      </div>
-      <div class="sm-profile-info">
-        <div class="sm-profile-name">Landamullagay Barmis Singho</div>
-        <div class="sm-profile-sinhalese">ලන්ද මුල්ලගේ බාම්ස් සිංඤෝ</div>
-        <div class="sm-profile-dates">Born: 1871, Banduragoda, Ceylon &nbsp;·&nbsp; Died: 1934, Bundaberg, Australia</div>
-        <p class="sm-profile-bio">Migrated aged 11. Married Lena Poddy Nona Semon in 1900 and had 13 children. Worked as a cane farmer and resided in Booyal most of his life. Died of heart failure aged 63; occupation listed as green grocer at time of death. Photo supplied by Jody Appoo.</p>
-      </div>
-    </div>
-
-    <!-- 2. Kallu (Call) Appoo -->
-    <div class="sm-profile-card fade-in fade-in-delay-1">
-      <div class="sm-profile-photo-wrap">
-        <img class="sm-profile-photo" src="/assets/images/sri-lankan-migration/kallu-appoo.png" alt="Kallu Call Appoo">
-      </div>
-      <div class="sm-profile-info">
-        <div class="sm-profile-name">Kallu (Call) Appoo</div>
-        <div class="sm-profile-sinhalese">කලු අප්පු</div>
-        <div class="sm-profile-dates">Born: 1860, Point de Galle, Ceylon &nbsp;·&nbsp; Died: 1954, Mount Perry, QLD</div>
-        <p class="sm-profile-bio">One of the first settlers in the Goodnight Scrub, where he resided for 60 years. Married Sara Wanetonge in 1883 and had 10 children. Described as 'held in high esteem by settlers in the district'. Died aged 94 and is buried in Goodnight Scrub cemetery.</p>
+    <!-- 1 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Landamullagay Barmis Singho"
+      data-sin="ලන්ද මුල්ලගේ බාමිස් සිඤ්ඤෝ"
+      data-dates="Born: 1871, Banduragoda, Ceylon · Died: 1934, Childers, Bundaberg, Australia"
+      data-img="/assets/images/sri-lankan-migration/profiles/barmis-singho.jpg"
+      data-bio="&lt;p&gt;Landamullagay Barmis Singho was born in 1871 to farmer Goda Landa Mullagay Romial Singho and Noi Harney. He migrated to Queensland aged 11 onboard the SS Devonshire and disembarked in Bundaberg.&lt;/p&gt;&lt;p&gt;He married Lena Poddy Nona Semon in 1900 and had 13 children. From electoral rolls and city directories, it appears that Singho resided in Booyal most of his life and worked as a cane farmer. He died of heart failure aged 63 in Childers, Bundaberg. At the time of his death, his occupation was listed as green grocer.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo supplied by Jody Appoo.&lt;/em&gt;&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/barmis-singho.jpg" alt="Landamullagay Barmis Singho" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Landamullagay Barmis Singho</span>
+        <span class="sm-profile-tile-years">1871 – 1934</span>
       </div>
     </div>
 
-    <!-- 3. Uguay Pere ("Blind Louis") -->
-    <div class="sm-profile-card fade-in fade-in-delay-2">
-      <div class="sm-profile-photo-wrap">
-        <img class="sm-profile-photo" src="/assets/images/sri-lankan-migration/uguay-pere.png" alt="Uguay Pere newspaper clipping">
-      </div>
-      <div class="sm-profile-info">
-        <div class="sm-profile-name">Uguay Pere</div>
-        <div class="sm-profile-sinhalese">උක්කුවා පෙරේරා (possible)</div>
-        <div class="sm-profile-dates">Born: 1863, Colombo, Ceylon &nbsp;·&nbsp; Died: 1937, Dunwich, QLD</div>
-        <p class="sm-profile-bio">Admitted to Dunwich Benevolent Asylum nine years after arrival due to blindness. Stayed in Dunwich for 46 years, becoming well known as <em>'Blind Louis'</em> — renowned for his remarkable ability to recall people's voices even after years apart. Died aged 75.</p>
-      </div>
-    </div>
-
-    <!-- 4. John James Wenitong -->
-    <div class="sm-profile-card fade-in">
-      <div class="sm-profile-photo-wrap">
-        <img class="sm-profile-photo" src="/assets/images/sri-lankan-migration/john-wenitong.png" alt="John James Wenitong">
-      </div>
-      <div class="sm-profile-info">
-        <div class="sm-profile-name">John James Wenitong</div>
-        <div class="sm-profile-sinhalese">ජෝන් ජේම්ස් වනිගතුංග</div>
-        <div class="sm-profile-dates">Born: 1872, Ceylon &nbsp;·&nbsp; Died: 1946, Gladstone, QLD</div>
-        <p class="sm-profile-bio">Travelled on the <em>Devonshire</em> as a child with his parents and siblings. His sister Sarah later married Kallu Appoo. John worked as a meatworker and resided in Gladstone. Photo uploaded to familysearch.org by Nicholle Perrin.</p>
+    <!-- 2 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Kallu (Call) Appoo"
+      data-sin="කලු අප්පු"
+      data-dates="Born: 1860, Point de Galle, Ceylon · Died: 1954, Mount Perry, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/kallu-appoo.jpeg"
+      data-bio="&lt;p&gt;Kallu Appoo was born in 1860 to Mattis Appo and Eliza in Point de Galle, Ceylon. He came onboard the SS Devonshire in 1882 and disembarked in Bundaberg. He was one of the first settlers in the Goodnight Scrub and resided there for 60 years.&lt;/p&gt;&lt;p&gt;Appoo married Sara Wanetonge in 1883 and had 10 children, and was described as 'held in high esteem by settlers in the district'. He died in 1954 aged 94 in Gin Gin Hospital and is buried in Goodnight Scrub cemetery.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo at St Patrick's Church, Mount Perry. Supplied by Jodie McCallum.&lt;/em&gt;&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/kallu-appoo.jpeg" alt="Kallu Appoo" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Kallu (Call) Appoo</span>
+        <span class="sm-profile-tile-years">1860 – 1954</span>
       </div>
     </div>
 
-    <!-- 5. Kuruneruge Sardial de Silva -->
-    <div class="sm-profile-card fade-in fade-in-delay-1">
-      <div class="sm-profile-photo-wrap">
-        <img class="sm-profile-photo" src="/assets/images/sri-lankan-migration/sardial-de-silva.png" alt="Kuruneruge Sardial de Silva newspaper clipping">
+    <!-- 3 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Widdarulargay (David) Silva"
+      data-dates="Born: 1847, Colombo, Ceylon · Died: 1923, Sydney, New South Wales"
+      data-bio="&lt;p&gt;Widdarulargay David Silva was born in 1847 in Colombo, Ceylon and came onboard the SS Devonshire in 1882 with his wife Mary Silva (née Harmy) and their two-year-old daughter Celestina. His family disembarked in Mackay and worked at Palms Plantation initially before moving to New South Wales.&lt;/p&gt;&lt;p&gt;In 1891, Silva was charged with 'maliciously wounding with intent to do grievous bodily harm' in Grafton, New South Wales. His occupation there is listed as farmer. Silva died in 1923 in Murwillumbah and is buried in Tweed Heads, New South Wales.&lt;/p&gt;">
+      <div class="sm-profile-tile-initials">
+        <span class="sm-profile-tile-initials-letters">WS</span>
+        <span class="sm-profile-tile-initials-name">Widdarulargay Silva</span>
       </div>
-      <div class="sm-profile-info">
-        <div class="sm-profile-name">Kuruneruge Sardial de Silva</div>
-        <div class="sm-profile-sinhalese">කුරුනෑරුගේ සරදියෙල් ද සිල්වා</div>
-        <div class="sm-profile-dates">Born: 1862, Ceylon &nbsp;·&nbsp; Died: 1929, Townsville, QLD</div>
-        <p class="sm-profile-bio">One of the few Devonshire migrants listed in the 1913 Index of Asiatic Aliens, where his occupation is listed as boarding housekeeper. Married twice and died in 1929 in Townsville — described in the press as a <em>'wealthy bottle merchant'</em>.</p>
-      </div>
-    </div>
-
-    <!-- 6. James Gurusinghe Williams -->
-    <div class="sm-profile-card fade-in fade-in-delay-2">
-      <div class="sm-profile-photo-wrap">
-        <img class="sm-profile-photo" src="/assets/images/sri-lankan-migration/james-williams.png" alt="James Gurusinghe Williams">
-      </div>
-      <div class="sm-profile-info">
-        <div class="sm-profile-name">James Gurusinghe Williams</div>
-        <div class="sm-profile-sinhalese">ජේම්ස් ගුරුසිංහ විලියම්ස්</div>
-        <div class="sm-profile-dates">Born: 1866, Point de Galle, Ceylon &nbsp;·&nbsp; Died: 1954, Queensland</div>
-        <p class="sm-profile-bio">Came onboard as a teenager. Settled in Mackay before relocating to Duranbah, New South Wales, where he and his wife Celestina purchased land. Williams died in 1954 in Queensland, having lived in Australia for over 70 years. Photo supplied by ancestry.com.</p>
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Widdarulargay Silva</span>
+        <span class="sm-profile-tile-years">1847 – 1923</span>
       </div>
     </div>
 
-    <!-- 7. Charles Deen -->
-    <div class="sm-profile-card fade-in">
-      <div class="sm-profile-photo-wrap">
-        <img class="sm-profile-photo" src="/assets/images/sri-lankan-migration/charles-deen.png" alt="Charles Deen">
-      </div>
-      <div class="sm-profile-info">
-        <div class="sm-profile-name">Charles Deen</div>
-        <div class="sm-profile-dates">Born: 1865, Ceylon &nbsp;·&nbsp; Died: 1913, Brisbane, QLD</div>
-        <p class="sm-profile-bio">One of the few non-Sinhalese aboard the <em>Devonshire</em>, though his nationality was disputed by fellow migrant Kallu Appoo. Charles Deen was hanged in 1913 at Boggo Road Gaol, Brisbane, for the murder of Peter Dina. Photo supplied by Queensland State Archives.</p>
+    <!-- 4 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="James Gurusinghe Williams"
+      data-sin="ජේමිස් ගුරුසිංහ විලිඅම්ස්"
+      data-dates="Born: 1866, Point de Galle, Ceylon · Died: 1954, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/james-williams.jpg"
+      data-bio="&lt;p&gt;James Gurusinghe Williams was born in Galle in 1866 and came onboard the SS Devonshire in 1882 as a teenager. He settled in Mackay prior to relocating to Duranbah in New South Wales with his wife Celestina, where they purchased land.&lt;/p&gt;&lt;p&gt;In 1912, he was charged with assault in Grafton, and his occupation is listed as a labourer. Williams died in 1954 in Queensland, having lived in Australia for over 70 years.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo taken in 1912, supplied by ancestry.com.&lt;/em&gt;&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/james-williams.jpg" alt="James Gurusinghe Williams" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">James G. Williams</span>
+        <span class="sm-profile-tile-years">1866 – 1954</span>
       </div>
     </div>
 
-    <!-- 8. Allis Appoo -->
-    <div class="sm-profile-card fade-in fade-in-delay-1">
-      <div class="sm-profile-photo-wrap">
-        <div class="sm-profile-photo-placeholder">👤</div>
+    <!-- 5 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Hendrick Appoo"
+      data-sin="හේන්ද්‍රික් අප්පු"
+      data-dates="Born: 1861 or 1867, Ceylon · Died: 1936, Mackay, Queensland"
+      data-bio="&lt;p&gt;Hendrick Appoo was born in either 1861 or 1867 in Ceylon, and came onboard the SS Devonshire in 1882. He disembarked in Mackay, where he worked at the Homebush sugar plantation. He died in 1936 in Mackay.&lt;/p&gt;">
+      <div class="sm-profile-tile-initials">
+        <span class="sm-profile-tile-initials-letters">HA</span>
+        <span class="sm-profile-tile-initials-name">Hendrick Appoo</span>
       </div>
-      <div class="sm-profile-info">
-        <div class="sm-profile-name">Allis Appoo</div>
-        <div class="sm-profile-sinhalese">අල්විස් අප්පු</div>
-        <div class="sm-profile-dates">Born: Unknown, Ceylon &nbsp;·&nbsp; Died: 1914, Gin Gin, QLD</div>
-        <p class="sm-profile-bio">Worked at the Goodnight Scrub alongside other Ceylonese migrants, carving out a life in the Queensland bush. In 1914, he was killed in an accident involving a falling tree while clearing the scrub. His death was reported in the <em>Bundaberg Mail</em>, 1 September 1914.</p>
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Hendrick Appoo</span>
+        <span class="sm-profile-tile-years">c.1861 – 1936</span>
+      </div>
+    </div>
+
+    <!-- 6 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Sara Wenitong"
+      data-sin="සාරා වනිගතුංග"
+      data-dates="Born: 1870, Kandy, Ceylon · Died: 1937, Maryborough, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/sara-wenitong.jpeg"
+      data-bio="&lt;p&gt;Sara Wenitong was born in 1870 and came onboard the SS Devonshire in 1882 with her brother David Weniton and her parents Harmanis and Lucy Anna Wanetonge.&lt;/p&gt;&lt;p&gt;Sara married twice, both times to Devonshire migrants. Her first marriage was to Kallu Appoo at age 13 in 1883, and to Amaris Appoo in 1909. She died in 1937.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo supplied with permission from Jodie McCallum.&lt;/em&gt;&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/sara-wenitong.jpeg" alt="Sara Wenitong" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Sara Wenitong</span>
+        <span class="sm-profile-tile-years">1870 – 1937</span>
+      </div>
+    </div>
+
+    <!-- 7 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Allis Appoo"
+      data-sin="අල්විස් අප්පු"
+      data-dates="Born: Unknown, Ceylon · Died: 1914, Gin Gin, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/allis-appoo-news.jpg"
+      data-bio="&lt;p&gt;Allis Appoo was born in Ceylon and came onboard the SS Devonshire in 1882, disembarking in Bundaberg. He worked in the Goodnight Scrub and was one of many Ceylonese carving a home there.&lt;/p&gt;&lt;p&gt;In 1914, he was killed in an accident involving a falling tree. His death was reported in the &lt;em&gt;Bundaberg Mail and Burnett Advertiser&lt;/em&gt;, 1 September 1914.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/allis-appoo-news.jpg" alt="Allis Appoo newspaper clipping" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Allis Appoo</span>
+        <span class="sm-profile-tile-years">? – 1914</span>
+      </div>
+    </div>
+
+    <!-- 8 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="John Silva"
+      data-sin="ජෝන් සිල්වා (possible)"
+      data-dates="Born: c.1865, Matara, Ceylon · Died: Unknown, Ceylon"
+      data-img="/assets/images/sri-lankan-migration/profiles/john-silva-news.jpg"
+      data-bio="&lt;p&gt;From his Certificate of Exemption record in 1914, John Silva was born around 1865 in Matara, Sri Lanka. He was one of the 500 who departed Galle for Bundaberg in 1882 at around age 16–17.&lt;/p&gt;&lt;p&gt;After arriving in Queensland, he worked as a cane farmer in Booyal. He is one of a few Devonshire migrants known to have saved up enough to return to Ceylon in his later years, presumably dying there.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/john-silva-news.jpg" alt="John Silva newspaper clipping" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">John Silva</span>
+        <span class="sm-profile-tile-years">c.1865 – returned to Ceylon</span>
+      </div>
+    </div>
+
+    <!-- 9 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Louis Appoo"
+      data-sin="ලුවිස් අප්පු"
+      data-dates="Born: 1851 or 1852, Ceylon · Died: 1937, Mackay, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/louis-appo-news1.jpg"
+      data-bio="&lt;p&gt;Louis Appoo was born in either 1851 or 1852 in Ceylon and came onboard the SS Devonshire in 1882, disembarking in Mackay. It is ambiguous whether he is the same Louis Appo mentioned in the local Mackay newspaper in 1884 as being charged with absconding service.&lt;/p&gt;&lt;p&gt;In 1937, he went missing after going to bathe at a local creek, and was shortly after found to have died from natural causes.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/louis-appo-news1.jpg" alt="Louis Appoo newspaper" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Louis Appoo</span>
+        <span class="sm-profile-tile-years">c.1852 – 1937</span>
+      </div>
+    </div>
+
+    <!-- 10 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Peter Appoo"
+      data-sin="පීටර් අප්පු"
+      data-dates="Born: Unknown, Ceylon · Died: 1916, Gin Gin, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/peter-appoo-news.jpg"
+      data-bio="&lt;p&gt;Peter Appoo was born in Ceylon and came onboard the SS Devonshire to Bundaberg. He worked at the Goodnight Scrub with other Ceylonese workers until he died of burns in a work-related accident in 1916. His death was reported in the &lt;em&gt;Bundaberg Mail &amp; Burnett Advertiser&lt;/em&gt;.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/peter-appoo-news.jpg" alt="Peter Appoo newspaper" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Peter Appoo</span>
+        <span class="sm-profile-tile-years">? – 1916</span>
+      </div>
+    </div>
+
+    <!-- 11 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Henry Appoe"
+      data-sin="හෙන්රි අප්පු"
+      data-dates="Born: 1845, Ceylon · Died: 1924, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/henry-appoe-form.jpeg"
+      data-bio="&lt;p&gt;Henry Appoe was born in 1845 in Ceylon and came onboard the SS Devonshire in 1882. He lived in Bundaberg, Maryborough and Gympie working as a cook, until he was admitted to the Dunwich Lazaret in 1909. He was discharged in 1912 and died in 1924 from senility.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/henry-appoe-form.jpeg" alt="Henry Appoe Dunwich form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Henry Appoe</span>
+        <span class="sm-profile-tile-years">1845 – 1924</span>
+      </div>
+    </div>
+
+    <!-- 12 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Aposenio"
+      data-sin="අප්පු සිඤ්ඤෝ (possible)"
+      data-dates="Born: 1863, Colombo, Ceylon · Died: 1913, Peel Island, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/aposenio-form.jpeg"
+      data-bio="&lt;p&gt;Aposenio was born in 1863 in Colombo and came onboard the SS Devonshire in 1882, working as a plantation hand in Queensland.&lt;/p&gt;&lt;p&gt;He was admitted to the Peel Island Lazaret in 1906 for mixed leprosy, which housed non-Europeans. He died there in 1913.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/aposenio-form.jpeg" alt="Aposenio admission form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Aposenio</span>
+        <span class="sm-profile-tile-years">1863 – 1913</span>
+      </div>
+    </div>
+
+    <!-- 13 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Alexander Appoo"
+      data-sin="ඇලෙක්‌සැන්ඩර් අප්පු"
+      data-dates="Born: 1848, Ceylon · Died: 1912, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/alexander-appoo-news.jpg"
+      data-bio="&lt;p&gt;Alexander Appoo was born in 1848 in Ceylon and came to Queensland onboard the SS Devonshire in 1882. He was admitted to Dunwich asylum and died there aged 64 years in 1912. His death was reported in the &lt;em&gt;Brisbane Courier&lt;/em&gt;, January 11, 1913.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/alexander-appoo-news.jpg" alt="Alexander Appoo newspaper" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Alexander Appoo</span>
+        <span class="sm-profile-tile-years">1848 – 1912</span>
+      </div>
+    </div>
+
+    <!-- 14 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Matho Appo"
+      data-sin="මැතෝ අප්පු (possible)"
+      data-dates="Born: 1856, Ceylon · Died: 1942, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/matho-appo-form.jpeg"
+      data-bio="&lt;p&gt;Matho Appo was born in 1856 in Ceylon and came to Mackay onboard the SS Devonshire in 1882. A Matho Appo is listed in a local newspaper as being charged with arson for setting fire to a humpy in 1904.&lt;/p&gt;&lt;p&gt;Appoo worked in Mackay for many years, and was admitted to Dunwich Asylum in 1942, where he died of cerebral thrombosis at 86 years.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/matho-appo-form.jpeg" alt="Matho Appo form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Matho Appo</span>
+        <span class="sm-profile-tile-years">1856 – 1942</span>
+      </div>
+    </div>
+
+    <!-- 15 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="James Appo-Hame"
+      data-sin="ජේමිස් අප්පුහාමි"
+      data-dates="Born: 1869, Ceylon · Died: 1939, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/james-appohame-form.jpeg"
+      data-bio="&lt;p&gt;James Appo-Hame was born in 1869 in Ceylon and came to Queensland onboard the SS Devonshire in 1882. He earned a living cooking and gardening in various parts of Queensland, and was admitted to Dunwich Asylum in 1939, where he died aged 76 years of bronchial pneumonia.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/james-appohame-form.jpeg" alt="James Appo-Hame form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">James Appo-Hame</span>
+        <span class="sm-profile-tile-years">1869 – 1939</span>
+      </div>
+    </div>
+
+    <!-- 16 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Uguay Pere"
+      data-sin="උක්කුවා පෙරේරා (possible)"
+      data-dates="Born: 1863, Colombo, Ceylon · Died: 1937, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/uguay-pere-news.jpg"
+      data-bio="&lt;p&gt;Uguay Pere was born in 1863 in Colombo and came onboard the SS Devonshire in 1882. He resided in Townsville before being admitted to Dunwich Asylum nine years after arrival due to blindness.&lt;/p&gt;&lt;p&gt;Pere stayed in Dunwich for 46 years, where he was well known as &lt;em&gt;'Blind Louis'&lt;/em&gt; — renowned for his ability to recall people's voices after a long time. He died in 1937 aged 75 years.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/uguay-pere-news.jpg" alt="Uguay Pere newspaper" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Uguay Pere</span>
+        <span class="sm-profile-tile-years">1863 – 1937</span>
+      </div>
+    </div>
+
+    <!-- 17 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Sing Nah 'Seyab' Poo"
+      data-sin="සින්නා අප්පු (possible)"
+      data-dates="Born: 1855, Ceylon · Died: 1883, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/singnah-form.jpeg"
+      data-bio="&lt;p&gt;Sing Nah 'Seyab' Poo was born in 1855 in Ceylon and came onboard the SS Devonshire in 1882. He worked as a labourer and was admitted to Dunwich Asylum in September 1883, just nine months after arriving in Queensland. He died from dropsy in November 1883 aged only 28 years — one of the earliest known deaths among the Devonshire migrants.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/singnah-form.jpeg" alt="Sing Nah Poo form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Sing Nah 'Seyab' Poo</span>
+        <span class="sm-profile-tile-years">1855 – 1883</span>
+      </div>
+    </div>
+
+    <!-- 18 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Jim Harmony"
+      data-dates="Born: 1861, Ceylon · Died: 1946, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/jim-harmony-form.jpeg"
+      data-bio="&lt;p&gt;Jim Harmony was born in 1861 in Ceylon and came onboard the SS Devonshire in 1882 to Bundaberg. He lived in Bundaberg as a labourer until he was admitted to Dunwich Benevolent Asylum in 1940, unable to care for himself. He died in 1946 aged 85 years from myocardial degeneration.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/jim-harmony-form.jpeg" alt="Jim Harmony form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Jim Harmony</span>
+        <span class="sm-profile-tile-years">1861 – 1946</span>
+      </div>
+    </div>
+
+    <!-- 19 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Charles Bundia"
+      data-sin="චාර්ලිස් බණ්ඩා (possible)"
+      data-dates="Born: 1839, Ceylon · Died: 1922, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/charles-bundia-form.jpeg"
+      data-bio="&lt;p&gt;Charles Bundia was born in 1839 in Ceylon and came onboard the SS Devonshire in 1882 to Bundaberg. He resided in Maryborough, Gympie and Bundaberg, and last worked as a fruit grower and cook in Maryborough before being admitted to Dunwich Benevolent Asylum, where he died in 1922 at the age of 83.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/charles-bundia-form.jpeg" alt="Charles Bundia form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Charles Bundia</span>
+        <span class="sm-profile-tile-years">1839 – 1922</span>
+      </div>
+    </div>
+
+    <!-- 20 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Mukhan Hassan"
+      data-dates="Born: 1856, Ceylon · Died: 1948, Sandgate, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/mukhan-hassan-form.jpeg"
+      data-bio="&lt;p&gt;Mukhan Hassan was born in 1856 in Ceylon and is one of the few non-Sinhalese among the 500 who came onboard the Devonshire in 1882. He worked as a labourer until he was admitted to Dunwich Benevolent Asylum in 1941, being unable to care for himself. He died in Sandgate in 1948 aged 92 years from concussion, bruises and senility.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/mukhan-hassan-form.jpeg" alt="Mukhan Hassan form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Mukhan Hassan</span>
+        <span class="sm-profile-tile-years">1856 – 1948</span>
+      </div>
+    </div>
+
+    <!-- 21 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Charles Deen"
+      data-dates="Born: 1865, Ceylon · Died: 1913, Brisbane, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/charles-deen.jpeg"
+      data-bio="&lt;p&gt;Charles Deen was born in 1865 in Ceylon and came onboard the SS Devonshire in 1882. It is possible he was one of the few non-Sinhalese onboard, although in a local article his nationality is disputed by fellow Ceylonese migrant Kallu (Call) Appoo.&lt;/p&gt;&lt;p&gt;Deen was hanged for the murder of Peter Dina in 1913 at Boggo Road Gaol, Brisbane.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo supplied by Queensland State Archives.&lt;/em&gt;&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/charles-deen.jpeg" alt="Charles Deen" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Charles Deen</span>
+        <span class="sm-profile-tile-years">1865 – 1913</span>
+      </div>
+    </div>
+
+    <!-- 22 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Sing Appu"
+      data-sin="සිඤ්ඤෝ අප්පු (possible)"
+      data-dates="Born: Unknown, Ceylon · Died: 1940, Mackay, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/sing-appu-news.jpg"
+      data-bio="&lt;p&gt;Sing Appu was born in Ceylon and came onboard the SS Devonshire in 1882. He was employed at Homebush Sugar Mill in Mackay. It is possible that he was the Sing Appu termed the 'Homebush Murderer' for shooting an Arab named Mahomet Ali and fleeing into the bush. Sing Appu died in Mackay in 1940.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/sing-appu-news.jpg" alt="Sing Appu newspaper" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Sing Appu</span>
+        <span class="sm-profile-tile-years">? – 1940</span>
+      </div>
+    </div>
+
+    <!-- 23 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Abraham Weerarathna Jayasuria"
+      data-sin="අබරාන් වීරරත්න ජයසූරිය"
+      data-dates="Born: 1872, Ceylon · Died: 1964, Ingham, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/abraham-news.jpg"
+      data-bio="&lt;p&gt;Abraham Weerarathna Jayasuria was born in 1872 in Ceylon. It is likely he came onboard the SS Devonshire in 1882 given the limited means of travel at the time. He was engaged in sugar growing and resided for 45 years in the Ingham district. He also experimented with growing tea in Queensland. He died in 1964 in Ingham.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/abraham-news.jpg" alt="Abraham Jayasuria newspaper" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Abraham Jayasuria</span>
+        <span class="sm-profile-tile-years">1872 – 1964</span>
+      </div>
+    </div>
+
+    <!-- 24 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Dinnie Silva"
+      data-dates="Born: 1859, Colombo, Ceylon · Died: 1945, Dunwich, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/dinnie-silva-form.jpeg"
+      data-bio="&lt;p&gt;Dinnie Silva was born in 1859 in Colombo and came onboard the SS Devonshire in 1882 aged 16 years. He worked as a cook and resided in Yeppoon, where he owned 20 acres of land, and also lived in Mackay and Homebush.&lt;/p&gt;&lt;p&gt;Silva was admitted to Dunwich Benevolent Asylum in 1944 and died in 1945 of cerebral hemorrhage at the age of 86.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/dinnie-silva-form.jpeg" alt="Dinnie Silva form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Dinnie Silva</span>
+        <span class="sm-profile-tile-years">1859 – 1945</span>
+      </div>
+    </div>
+
+    <!-- 25 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="George W. Gango"
+      data-dates="Born: 1855, Ceylon · Died: 1947, Brisbane, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/george-gango-form.jpeg"
+      data-bio="&lt;p&gt;George W. Gango was born in 1855 in Ceylon and came onboard the SS Devonshire in 1882. He lived in Townsville, Ayr, Ingham and Innisfail, working as a cook. Gango also owned a galvanised iron hut valued at 15 pounds.&lt;/p&gt;&lt;p&gt;He was admitted to Dunwich Benevolent Asylum in 1939 and died in 1947 in Eventide, Sandgate of bronchial pneumonia and senility at the age of 93 years.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/george-gango-form.jpeg" alt="George Gango form" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">George W. Gango</span>
+        <span class="sm-profile-tile-years">1855 – 1947</span>
+      </div>
+    </div>
+
+    <!-- 26 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="John James Wenitong"
+      data-sin="ජෝන් ජේමිස් වනිගතුංග"
+      data-dates="Born: 1872, Ceylon · Died: 1946, Gladstone, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/john-wenitong.jpeg"
+      data-bio="&lt;p&gt;John James Wenitong was born in 1872 in Ceylon. He travelled onboard the Devonshire as a family with his parents Harmanis Wanigetunga and Lucy Hamey, and siblings David and Sarah — who later married Kallu (Call) Appoo.&lt;/p&gt;&lt;p&gt;John married Eliza Ann Kathleen Wenitong, and electoral rolls show he worked as a meatworker and resided in Gladstone. He died in 1946.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo uploaded to familysearch.org by Nicholle Perrin.&lt;/em&gt;&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/john-wenitong.jpeg" alt="John James Wenitong" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">John James Wenitong</span>
+        <span class="sm-profile-tile-years">1872 – 1946</span>
+      </div>
+    </div>
+
+    <!-- 27 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Charlie Williams"
+      data-dates="Born: Unknown, Ceylon · Died: 1893, Appletree Creek, Queensland"
+      data-bio="&lt;p&gt;Charlie Williams was born in Ceylon and came onboard the SS Devonshire in 1882. He was employed by cane farmer Mr C. Anderson in Appletree Creek, and died in 1893 from drowning — one of the earliest known deaths among the Devonshire migrants in Queensland.&lt;/p&gt;">
+      <div class="sm-profile-tile-initials">
+        <span class="sm-profile-tile-initials-letters">CW</span>
+        <span class="sm-profile-tile-initials-name">Charlie Williams</span>
+      </div>
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Charlie Williams</span>
+        <span class="sm-profile-tile-years">? – 1893</span>
+      </div>
+    </div>
+
+    <!-- 28 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Sing Apoo"
+      data-sin="සිඤ්ඤෝ අප්පු (possible)"
+      data-dates="Born: Unknown, Ceylon · Died: 1908, Mackay, Queensland"
+      data-bio="&lt;p&gt;Sing Apoo was born in Ceylon and came to Queensland onboard the SS Devonshire in 1882. He was held in a cell for the murder of an Arab man and died by suicide in the cell in 1908.&lt;/p&gt;">
+      <div class="sm-profile-tile-initials">
+        <span class="sm-profile-tile-initials-letters">SA</span>
+        <span class="sm-profile-tile-initials-name">Sing Apoo</span>
+      </div>
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Sing Apoo</span>
+        <span class="sm-profile-tile-years">? – 1908</span>
+      </div>
+    </div>
+
+    <!-- 29 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="James Appoo"
+      data-sin="ජේමිස් අප්පු"
+      data-dates="Born: c.1869, Unawatuna, Galle District, Ceylon · Died: 1951, Cairns, Queensland"
+      data-img="/assets/images/sri-lankan-migration/profiles/james-appoo-news.jpg"
+      data-bio="&lt;p&gt;James Appoo was born in Unawatuna, Galle District, Ceylon around 1869 and came onboard the Devonshire in 1882, around age 13–14. He was one of many migrants who disembarked at Mackay. His occupation is listed as 'carrier' in 1914.&lt;/p&gt;&lt;p&gt;A newspaper article written when he was about 90 years old mentions that he engaged in timber cutting and 'hauling sleepers and firewood for sugar mills', helping him make a significant income. Appoo died in Cairns in 1951.&lt;/p&gt;">
+      <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/james-appoo-news.jpg" alt="James Appoo newspaper" loading="lazy">
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">James Appoo</span>
+        <span class="sm-profile-tile-years">c.1869 – 1951</span>
+      </div>
+    </div>
+
+    <!-- 30 -->
+    <div class="sm-profile-tile fade-in" tabindex="0" role="button"
+      data-name="Johannes"
+      data-dates="Born: 1867, Ceylon · Died: 1906, Brisbane, Queensland"
+      data-bio="&lt;p&gt;Johannes was born in Ceylon in 1867 and came onboard the SS Devonshire in 1882. He was charged with the murder of a constable and hanged at Boggo Road Gaol in Brisbane in 1906.&lt;/p&gt;">
+      <div class="sm-profile-tile-initials">
+        <span class="sm-profile-tile-initials-letters">Jo</span>
+        <span class="sm-profile-tile-initials-name">Johannes</span>
+      </div>
+      <div class="sm-profile-tile-label">
+        <span class="sm-profile-tile-name">Johannes</span>
+        <span class="sm-profile-tile-years">1867 – 1906</span>
       </div>
     </div>
 
