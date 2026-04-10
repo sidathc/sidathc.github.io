@@ -6,6 +6,10 @@ permalink: /about-me/
 
 <div class="about-me-page">
 
+  <div class="about-photo-wrap">
+    <img class="about-photo" src="/assets/images/profile.png" alt="Sidath Chandrasena">
+  </div>
+
   <h1 class="about-heading">Hi, I'm Sidath.</h1>
 
   <p>I'm a recent graduate of Lafayette College with a dual degree in Engineering and International Studies, and a minor in Data Science. Since childhood I've been fascinated by airplanes and human migration. My goal is to combine these interests using software and data to research and answer real-world questions in sustainable aviation and the social sciences.</p>
