@@ -29,7 +29,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 1.1rem 2rem;
-  background: rgba(18, 28, 46, 0.96);
+  background: rgba(30, 20, 8, 0.96);
   backdrop-filter: blur(6px);
   transition: padding 0.3s ease;
 }
@@ -319,7 +319,7 @@
 
 /* ── Dark full-width section ──────────────────────────────── */
 .sm-dark {
-  background: linear-gradient(160deg, #111e30 0%, #1e3350 100%);
+  background: linear-gradient(160deg, #1e1408 0%, #2e200e 100%);
   color: #fff;
   padding: 5rem 2rem;
 }
@@ -363,7 +363,7 @@
 
 /* ── Stats bar ────────────────────────────────────────────── */
 .sm-stats {
-  background: #1a4a7a;
+  background: #2e200e;
   color: #fff;
 }
 
@@ -437,19 +437,19 @@
   height: 90px;
   object-fit: cover;
   border-radius: 4px;
-  background: #dde6f0;
+  background: #e0d4c0;
   display: block;
 }
 
 .sm-profile-photo-placeholder {
   width: 72px;
   height: 90px;
-  background: linear-gradient(135deg, #c8d8ea, #dde6f0);
+  background: linear-gradient(135deg, #e0d4c0, #c8b89a);
   border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #8aa0bc;
+  color: #8b7355;
   font-size: 1.5rem;
 }
 
@@ -462,7 +462,7 @@
   font-family: 'Space Grotesk', sans-serif;
   font-size: 0.97rem;
   font-weight: 700;
-  color: #1a4a7a;
+  color: #5c3d1e;
   margin: 0 0 0.18em;
   line-height: 1.25;
 }
