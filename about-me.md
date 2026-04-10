@@ -7,7 +7,7 @@ permalink: /about-me/
 <div class="about-me-page">
 
   <h1 class="about-heading">Sidath Chandrasena</h1>
-  <p class="portfolio-tagline">Researching sustainable aviation and migration through software and data.</p>
+  <p class="portfolio-tagline">Using software and data to find answers to real-world questions in sustainable aviation and migration.</p>
 
   <p>I'm a recent graduate of Lafayette College with a dual degree in Engineering and International Studies, and a minor in Data Science. Since childhood I've been fascinated by airplanes and human migration. My goal is to combine these interests using software and data to research and answer real-world questions in sustainable aviation and the social sciences.</p>
 

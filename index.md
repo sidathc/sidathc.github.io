@@ -5,7 +5,7 @@ layout: default
 <link href="/css/override.css" rel="stylesheet" type="text/css">
 
 <div class="portfolio-header">
-  <p class="portfolio-tagline">Researching sustainable aviation and migration through software and data.</p>
+  <p class="portfolio-tagline">Using software and data to find answers to real-world questions in sustainable aviation and migration.</p>
 </div>
 
 <h2 class="section-heading">Projects</h2>
