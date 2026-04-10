@@ -56,8 +56,8 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/blackbirding.png" alt="South Sea Islanders planting cane in Queensland">
-    <span class="sm-img-caption">Photo of South Sea Islanders planting cane · Source: Burdekin Shire Council Library Services</span>
+    <img src="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" alt="Kanaka workers in a sugar cane plantation in Queensland">
+    <span class="sm-img-caption">Kanaka workers in a sugar cane plantation in Queensland, late 19th century</span>
   </div>
 </section>
 
@@ -74,7 +74,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/caulfield.png" alt="Henry St George Caulfield">
+    <img src="/assets/images/sri-lankan-migration/henry-caulfield.png" alt="Henry St George Caulfield">
     <span class="sm-img-caption">Photo of Henry St George Caulfield published in 1937</span>
   </div>
 </section>
@@ -101,7 +101,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/coffee-workers.png" alt="Workers sorting coffee seeds in Ceylon in the late 1800s">
+    <img src="/assets/images/sri-lankan-migration/coffee-workers-ceylon.jpeg" alt="Workers sorting coffee seeds in Ceylon in the late 1800s">
     <span class="sm-img-caption">Workers sorting coffee seeds in the late 1800s before the fall of the coffee industry · Source: Lankapura</span>
   </div>
 </section>
@@ -119,10 +119,8 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <div class="sm-img-placeholder">
-      <div class="sm-img-icon">📄</div>
-      <div>The contract published in the <em>Ceylon Observer</em> in 1882<br><em style="opacity:0.6;">Source: Sparkes, 1988</em></div>
-    </div>
+    <img src="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" alt="Contract published in the Ceylon Observer in 1882">
+    <span class="sm-img-caption">The contract published in the <em>Ceylon Observer</em> in 1882 · Source: Sparkes, 1988</span>
   </div>
 </section>
 
@@ -150,8 +148,8 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/arrival.png" alt="Point de Galle 1874 and the Burnett River Bundaberg 1909">
-    <span class="sm-img-caption">Top: Point de Galle, 1874 · Bottom: Burnett River, Bundaberg, 1909 · Source: State Library of Queensland</span>
+    <img src="/assets/images/sri-lankan-migration/burnett-river-1909.jpg" alt="Burnett River, Bundaberg, 1909">
+    <span class="sm-img-caption">Burnett River, Bundaberg, Queensland, 1909 · Source: State Library of Queensland</span>
   </div>
 </section>
 
@@ -182,8 +180,8 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img src="/assets/images/sri-lankan-migration/failure.png" alt="Bundaberg Court House 1889">
-    <span class="sm-img-caption">Bundaberg Court House, 1889 · Source: State Library of Queensland</span>
+    <img src="/assets/images/sri-lankan-migration/south-sea-islanders-ship.jpg" alt="South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895">
+    <span class="sm-img-caption">South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895 · Source: State Library of Queensland</span>
   </div>
 </section>
 
@@ -252,10 +250,8 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <div class="sm-img-placeholder">
-      <div class="sm-img-icon">📊</div>
-      <div>Queensland, Australia<br>Index to Aliens, 1913<br><em style="opacity:0.6;">Queensland State Archives</em></div>
-    </div>
+    <img src="/assets/images/sri-lankan-migration/mackay-harbour.jpg" alt="Mackay Harbour, Mackay, Queensland, 1950">
+    <span class="sm-img-caption">Mackay Harbour, Mackay, Queensland, 1950 · Source: Mackay Regional Council Libraries</span>
   </div>
 </section>
 

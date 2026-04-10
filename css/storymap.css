@@ -65,26 +65,19 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: linear-gradient(160deg, #111e30 0%, #1e3350 45%, #162940 100%);
+  background:
+    linear-gradient(160deg, rgba(10,18,30,0.82) 0%, rgba(18,35,58,0.75) 100%),
+    url('/assets/images/sri-lankan-migration/hero-bg.png') center/cover no-repeat;
   position: relative;
   overflow: hidden;
   text-align: center;
   padding: 7rem 2rem 5rem;
 }
 
-/* subtle diagonal lines to mimic a map grid */
 .sm-hero::before {
   content: '';
   position: absolute;
   inset: 0;
-  background-image:
-    repeating-linear-gradient(
-      135deg,
-      rgba(255,255,255,0.03) 0px,
-      rgba(255,255,255,0.03) 1px,
-      transparent 1px,
-      transparent 60px
-    );
 }
 
 .sm-hero-content {
@@ -147,7 +140,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(160deg, #111e30 0%, #1e3350 100%);
+  background:
+    linear-gradient(160deg, rgba(10,18,30,0.80) 0%, rgba(18,35,58,0.72) 100%),
+    url('/assets/images/sri-lankan-migration/hero-bg.png') center/cover no-repeat;
   position: relative;
   overflow: hidden;
   text-align: center;
@@ -158,14 +153,6 @@
   content: '';
   position: absolute;
   inset: 0;
-  background-image:
-    repeating-linear-gradient(
-      135deg,
-      rgba(255,255,255,0.025) 0px,
-      rgba(255,255,255,0.025) 1px,
-      transparent 1px,
-      transparent 60px
-    );
 }
 
 .sm-chapter-inner {
