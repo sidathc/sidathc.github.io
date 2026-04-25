@@ -308,7 +308,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="කලු අප්පු"
       data-dates="Born: 1860, Point de Galle, Ceylon · Died: 1954, Mount Perry, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/kallu-appoo.jpeg"
-      data-bio="&lt;p&gt;Kallu Appoo was born in 1860 to Mattis Appo and Eliza in Point de Galle, Ceylon. He came onboard the SS Devonshire in 1882 and disembarked in Bundaberg. He was one of the first settlers in the Goodnight Scrub and resided there for 60 years.&lt;/p&gt;&lt;p&gt;Appoo married Sara Wanetonge in 1883 and had 10 children, and was described as 'held in high esteem by settlers in the district'. He died in 1954 aged 94 in Gin Gin Hospital and is buried in Goodnight Scrub cemetery.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo at St Patrick's Church, Mount Perry. Shared with permission from Jodie McCallum.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Kallu Appoo was born in 1860 to Mattis Appo and Eliza in Point de Galle, Ceylon. He came onboard the SS Devonshire in 1882 and disembarked in Bundaberg. He was one of the first settlers in the Goodnight Scrub and resided there for 60 years.&lt;/p&gt;&lt;p&gt;Appoo married Sara Wanetonge in 1883 and had 10 children, and was described as 'held in high esteem by settlers in the district'. He died in 1954 aged 94 in Gin Gin Hospital and is buried in Goodnight Scrub cemetery.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo at St Patrick's Church, Mount Perry. Supplied with permission from Jodie McCallum.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/kallu-appoo.jpeg" alt="Kallu Appoo" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Kallu (Call) Appoo</span>
@@ -369,7 +369,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="සාරා වනිගතුංග"
       data-dates="Born: 1870, Kandy, Ceylon · Died: 1937, Maryborough, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/sara-wenitong.jpeg"
-      data-bio="&lt;p&gt;Sara Wenitong was born in 1870 and came onboard the SS Devonshire in 1882 with her brother David Weniton and her parents Harmanis and Lucy Anna Wanetonge.&lt;/p&gt;&lt;p&gt;Sara married twice, both times to Devonshire migrants. Her first marriage was to Kallu Appoo at age 13 in 1883, and to Amaris Appoo in 1909. She died in 1937.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo shared with permission from Jodie McCallum.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Sara Wenitong was born in 1870 and came onboard the SS Devonshire in 1882 with her brother David Weniton and her parents Harmanis and Lucy Anna Wanetonge.&lt;/p&gt;&lt;p&gt;Sara married twice, both times to Devonshire migrants. Her first marriage was to Kallu Appoo at age 13 in 1883, and to Amaris Appoo in 1909. She died in 1937.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Photo supplied with permission from Jodie McCallum.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/sara-wenitong.jpeg" alt="Sara Wenitong" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Sara Wenitong</span>
@@ -785,5 +785,10 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
   <div class="sm-footer-inner fade-in">
     <h2 class="sm-section-heading" style="font-size:1.2rem;">Archival Records</h2>
     <p>Dunwich Benevolent Asylum and Peel Island Lazaret admission forms, and the prison photograph of Charles Deen, are © State of Queensland (<a href="https://www.archives.qld.gov.au/" target="_blank" rel="noopener">Queensland State Archives</a>) and reproduced here under <a href="https://creativecommons.org/licenses/by/3.0/au/" target="_blank" rel="noopener">Creative Commons Attribution 3.0 Australia (CC BY 3.0 AU)</a>. The asylum admission forms were scanned and shared with permission by John Winterbotham via Find A Grave memorial pages, with thanks for his generosity in making these records accessible to researchers.</p>
+  </div>
+
+  <div class="sm-footer-inner fade-in">
+    <h2 class="sm-section-heading" style="font-size:1.2rem;">Research Status</h2>
+    <p>This page preserves the June 2022 Digital Humanities Summer Scholars research on the SS <em>Devonshire</em> migration, conducted at Lafayette College. Profiles and identifications reflect the evidence available at that time. Source attributions, citations, and compliance notices have been updated since publication; research findings themselves have not been revised on this site. Investigation has continued, and the current working dataset includes additional individuals, candidate reclassifications, and corrections that are not reflected here.</p>
   </div>
 </section>
