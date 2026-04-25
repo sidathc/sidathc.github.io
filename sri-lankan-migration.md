@@ -383,7 +383,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="අල්විස් අප්පු"
       data-dates="Born: Unknown, Ceylon · Died: 1914, Gin Gin, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/allis-appoo-news.jpg"
-      data-bio="&lt;p&gt;Allis Appoo was born in Ceylon and came onboard the SS Devonshire in 1882, disembarking in Bundaberg. He worked in the Goodnight Scrub and was one of many Ceylonese carving a home there.&lt;/p&gt;&lt;p&gt;In 1914, he was killed in an accident involving a falling tree. His death was reported in the &lt;em&gt;Bundaberg Mail and Burnett Advertiser&lt;/em&gt;, 1 September 1914.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Allis Appoo was born in Ceylon and came onboard the SS Devonshire in 1882, disembarking in Bundaberg. He worked in the Goodnight Scrub and was one of many Ceylonese carving a home there.&lt;/p&gt;&lt;p&gt;In 1914, he was killed in an accident involving a falling tree. His death was reported in the &lt;em&gt;Bundaberg Mail and Burnett Advertiser&lt;/em&gt;, 1 September 1914.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Bundaberg Mail and Burnett Advertiser (Qld.), 1 September 1914. National Library of Australia, Trove: nla.news-article215704396.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/allis-appoo-news.jpg" alt="Allis Appoo newspaper clipping" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Allis Appoo</span>
@@ -397,7 +397,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="ජෝන් සිල්වා (possible)"
       data-dates="Born: c.1865, Matara, Ceylon · Died: Unknown, Ceylon"
       data-img="/assets/images/sri-lankan-migration/profiles/john-silva-news.jpg"
-      data-bio="&lt;p&gt;From his Certificate of Exemption record in 1914, John Silva was born around 1865 in Matara, Sri Lanka. He was one of the 500 who departed Galle for Bundaberg in 1882 at around age 16–17.&lt;/p&gt;&lt;p&gt;After arriving in Queensland, he worked as a cane farmer in Booyal. He is one of a few Devonshire migrants known to have saved up enough to return to Ceylon in his later years, presumably dying there.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;From his Certificate of Exemption record in 1914, John Silva was born around 1865 in Matara, Sri Lanka. He was one of the 500 who departed Galle for Bundaberg in 1882 at around age 16–17.&lt;/p&gt;&lt;p&gt;After arriving in Queensland, he worked as a cane farmer in Booyal. He is one of a few Devonshire migrants known to have saved up enough to return to Ceylon in his later years, presumably dying there.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910–1954). National Library of Australia, Trove: nla.news-article171884707.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/john-silva-news.jpg" alt="John Silva newspaper clipping" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">John Silva</span>
@@ -411,7 +411,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="ලුවිස් අප්පු"
       data-dates="Born: 1851 or 1852, Ceylon · Died: 1937, Mackay, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/louis-appo-news1.jpg"
-      data-bio="&lt;p&gt;Louis Appoo was born in either 1851 or 1852 in Ceylon and came onboard the SS Devonshire in 1882, disembarking in Mackay. It is ambiguous whether he is the same Louis Appo mentioned in the local Mackay newspaper in 1884 as being charged with absconding service.&lt;/p&gt;&lt;p&gt;In 1937, he went missing after going to bathe at a local creek, and was shortly after found to have died from natural causes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Louis Appoo was born in either 1851 or 1852 in Ceylon and came onboard the SS Devonshire in 1882, disembarking in Mackay. It is ambiguous whether he is the same Louis Appo mentioned in the local Mackay newspaper in 1884 as being charged with absconding service.&lt;/p&gt;&lt;p&gt;In 1937, he went missing after going to bathe at a local creek, and was shortly after found to have died from natural causes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Mackay Daily Mercury (Qld.), 29 January 1937. National Library of Australia, Trove: nla.news-article169530030.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/louis-appo-news1.jpg" alt="Louis Appoo newspaper" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Louis Appoo</span>
@@ -425,7 +425,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="පීටර් අප්පු"
       data-dates="Born: Unknown, Ceylon · Died: 1916, Gin Gin, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/peter-appoo-news.jpg"
-      data-bio="&lt;p&gt;Peter Appoo was born in Ceylon and came onboard the SS Devonshire to Bundaberg. He worked at the Goodnight Scrub with other Ceylonese workers until he died of burns in a work-related accident in 1916. His death was reported in the &lt;em&gt;Bundaberg Mail &amp; Burnett Advertiser&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Peter Appoo was born in Ceylon and came onboard the SS Devonshire to Bundaberg. He worked at the Goodnight Scrub with other Ceylonese workers until he died of burns in a work-related accident in 1916. His death was reported in the &lt;em&gt;Bundaberg Mail &amp; Burnett Advertiser&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Bundaberg Mail &amp; Burnett Advertiser (Qld.), 23 and 24 February 1916. National Library of Australia, Trove: nla.news-article215638769; nla.news-article215646873.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/peter-appoo-news.jpg" alt="Peter Appoo newspaper" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Peter Appoo</span>
@@ -467,7 +467,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="ඇලෙක්‌සැන්ඩර් අප්පු"
       data-dates="Born: 1848, Ceylon · Died: 1912, Dunwich, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/alexander-appoo-news.jpg"
-      data-bio="&lt;p&gt;Alexander Appoo was born in 1848 in Ceylon and came to Queensland onboard the SS Devonshire in 1882. He was admitted to Dunwich asylum and died there aged 64 years in 1912. His death was reported in the &lt;em&gt;Brisbane Courier&lt;/em&gt;, January 11, 1913.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Alexander Appoo was born in 1848 in Ceylon and came to Queensland onboard the SS Devonshire in 1882. He was admitted to Dunwich asylum and died there aged 64 years in 1912. His death was reported in the &lt;em&gt;Brisbane Courier&lt;/em&gt;, January 11, 1913.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Brisbane Courier (Qld. : 1864–1933), 11 January 1913. National Library of Australia, Trove.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/alexander-appoo-news.jpg" alt="Alexander Appoo newspaper" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Alexander Appoo</span>
@@ -509,7 +509,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="උක්කුවා පෙරේරා (possible)"
       data-dates="Born: 1863, Colombo, Ceylon · Died: 1937, Dunwich, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/uguay-pere-news.jpg"
-      data-bio="&lt;p&gt;Uguay Pere was born in 1863 in Colombo and came onboard the SS Devonshire in 1882. He resided in Townsville before being admitted to Dunwich Asylum nine years after arrival due to blindness.&lt;/p&gt;&lt;p&gt;Pere stayed in Dunwich for 46 years, where he was well known as &lt;em&gt;'Blind Louis'&lt;/em&gt; — renowned for his ability to recall people's voices after a long time. He died in 1937 aged 75 years.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Uguay Pere was born in 1863 in Colombo and came onboard the SS Devonshire in 1882. He resided in Townsville before being admitted to Dunwich Asylum nine years after arrival due to blindness.&lt;/p&gt;&lt;p&gt;Pere stayed in Dunwich for 46 years, where he was well known as &lt;em&gt;'Blind Louis'&lt;/em&gt; — renowned for his ability to recall people's voices after a long time. He died in 1937 aged 75 years.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Courier-Mail (Brisbane, Qld. : 1933–1954), 20 April 1937, p. 13. National Library of Australia, Trove: nla.news-article36880235.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/uguay-pere-news.jpg" alt="Uguay Pere newspaper" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Uguay Pere</span>
@@ -590,7 +590,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="සිඤ්ඤෝ අප්පු (possible)"
       data-dates="Born: Unknown, Ceylon · Died: 1940, Mackay, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/sing-appu-news.jpg"
-      data-bio="&lt;p&gt;Sing Appu was born in Ceylon and came onboard the SS Devonshire in 1882. He was employed at Homebush Sugar Mill in Mackay. It is possible that he was the Sing Appu termed the 'Homebush Murderer' for shooting an Arab named Mahomet Ali and fleeing into the bush. Sing Appu died in Mackay in 1940.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Sing Appu was born in Ceylon and came onboard the SS Devonshire in 1882. He was employed at Homebush Sugar Mill in Mackay. It is possible that he was the Sing Appu termed the 'Homebush Murderer' for shooting an Arab named Mahomet Ali and fleeing into the bush. Sing Appu died in Mackay in 1940.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/sing-appu-news.jpg" alt="Sing Appu newspaper" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Sing Appu</span>
@@ -604,7 +604,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="අබරාන් වීරරත්න ජයසූරිය"
       data-dates="Born: 1872, Ceylon · Died: 1964, Ingham, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/abraham-news.jpg"
-      data-bio="&lt;p&gt;Abraham Weerarathna Jayasuria was born in 1872 in Ceylon. It is likely he came onboard the SS Devonshire in 1882 given the limited means of travel at the time. He was engaged in sugar growing and resided for 45 years in the Ingham district. He also experimented with growing tea in Queensland. He died in 1964 in Ingham.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;Abraham Weerarathna Jayasuria was born in 1872 in Ceylon. It is likely he came onboard the SS Devonshire in 1882 given the limited means of travel at the time. He was engaged in sugar growing and resided for 45 years in the Ingham district. He also experimented with growing tea in Queensland. He died in 1964 in Ingham.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Morning Bulletin (Rockhampton, Qld. : 1878–1954), 6 August 1938, p. 8. National Library of Australia, Trove: nla.news-article55985959.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/abraham-news.jpg" alt="Abraham Jayasuria newspaper" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">Abraham Jayasuria</span>
@@ -691,7 +691,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
       data-sin="ජේමිස් අප්පු"
       data-dates="Born: c.1869, Unawatuna, Galle District, Ceylon · Died: 1951, Cairns, Queensland"
       data-img="/assets/images/sri-lankan-migration/profiles/james-appoo-news.jpg"
-      data-bio="&lt;p&gt;James Appoo was born in Unawatuna, Galle District, Ceylon around 1869 and came onboard the Devonshire in 1882, around age 13–14. He was one of many migrants who disembarked at Mackay. His occupation is listed as 'carrier' in 1914.&lt;/p&gt;&lt;p&gt;A newspaper article written when he was about 90 years old mentions that he engaged in timber cutting and 'hauling sleepers and firewood for sugar mills', helping him make a significant income. Appoo died in Cairns in 1951.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Newspaper clipping sourced from Trove, National Library of Australia.&lt;/em&gt;&lt;/p&gt;">
+      data-bio="&lt;p&gt;James Appoo was born in Unawatuna, Galle District, Ceylon around 1869 and came onboard the Devonshire in 1882, around age 13–14. He was one of many migrants who disembarked at Mackay. His occupation is listed as 'carrier' in 1914.&lt;/p&gt;&lt;p&gt;A newspaper article written when he was about 90 years old mentions that he engaged in timber cutting and 'hauling sleepers and firewood for sugar mills', helping him make a significant income. Appoo died in Cairns in 1951.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Daily Mercury (Mackay, Qld. : 1906–1954), 19 October 1946, p. 2. National Library of Australia, Trove: nla.news-article171345075.&lt;/em&gt;&lt;/p&gt;">
       <img class="sm-profile-tile-img" src="/assets/images/sri-lankan-migration/profiles/james-appoo-news.jpg" alt="James Appoo newspaper" loading="lazy">
       <div class="sm-profile-tile-label">
         <span class="sm-profile-tile-name">James Appoo</span>
@@ -779,7 +779,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 
   <div class="sm-footer-inner fade-in">
     <h2 class="sm-section-heading" style="font-size:1.2rem;">Newspaper Sources</h2>
-    <p>Newspaper clippings featured in migrant profiles were sourced from <a href="https://trove.nla.gov.au/" target="_blank" rel="noopener">Trove</a>, National Library of Australia. Newspapers accessed include the <em>Bundaberg Mail and Burnett Advertiser</em>, <em>Brisbane Courier</em>, <em>Mackay Mercury</em>, and other Queensland regional titles held in the Trove digitised newspaper collection. All newspaper clippings reproduced here are from out-of-copyright Australian newspapers (pre-1955) held by the National Library of Australia.</p>
+    <p>Newspaper clippings reproduced in migrant profiles were sourced from <a href="https://trove.nla.gov.au/" target="_blank" rel="noopener">Trove</a>, National Library of Australia. Titles cited include the <em>Bundaberg Mail and Burnett Advertiser</em>, <em>Brisbane Courier</em>, <em>The Courier-Mail</em> (Brisbane), <em>Daily Mercury</em> (Mackay), <em>Mackay Daily Mercury</em>, <em>Mackay Mercury</em>, <em>Morning Bulletin</em> (Rockhampton), <em>The Don Dorrigo Gazette and Guy Fawkes Advocate</em> (NSW), and <em>Mercury</em> (Hobart). Each clipping is cited in-profile with newspaper title, date, and its Trove persistent Article Identifier (<code>nla.news-articleNNNNNNN</code>), resolvable at <code>https://nla.gov.au/nla.news-articleNNNNNNN</code>. All reproduced clippings are from out-of-copyright Australian newspapers (pre-1955) held by the National Library of Australia.</p>
   </div>
 
   <div class="sm-footer-inner fade-in">
