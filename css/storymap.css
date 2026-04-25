@@ -752,12 +752,49 @@
   min-height: 340px;
 }
 
+.sm-modal-img-link {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: zoom-in;
+  text-decoration: none;
+}
+
+.sm-modal-img-link:hover .sm-modal-img,
+.sm-modal-img-link:focus .sm-modal-img {
+  opacity: 0.85;
+}
+
+.sm-modal-img-link:hover .sm-modal-img-hint,
+.sm-modal-img-link:focus .sm-modal-img-hint {
+  opacity: 1;
+}
+
 .sm-modal-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: top center;
   display: block;
+  transition: opacity 0.18s ease;
+}
+
+.sm-modal-img-hint {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0.55rem 0.75rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.78) 0%, rgba(0,0,0,0) 100%);
+  color: #fff;
+  font-size: 0.78rem;
+  font-family: 'Georgia', serif;
+  letter-spacing: 0.02em;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.18s ease;
+  pointer-events: none;
 }
 
 .sm-modal-img-placeholder {

@@ -18,7 +18,10 @@
       <button class="sm-modal-close" aria-label="Close">&times;</button>
       <div class="sm-modal-inner">
         <div class="sm-modal-image-col">
-          <img class="sm-modal-img" src="" alt="">
+          <a class="sm-modal-img-link" href="#" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab">
+            <img class="sm-modal-img" src="" alt="">
+            <span class="sm-modal-img-hint">Click to view full size</span>
+          </a>
           <div class="sm-modal-img-placeholder"></div>
         </div>
         <div class="sm-modal-content-col">
@@ -50,6 +53,7 @@
       // Profile modal
       var modal      = document.getElementById('sm-modal');
       var modalImg   = modal.querySelector('.sm-modal-img');
+      var modalImgLink = modal.querySelector('.sm-modal-img-link');
       var modalPH    = modal.querySelector('.sm-modal-img-placeholder');
       var modalName  = modal.querySelector('.sm-modal-name');
       var modalSin   = modal.querySelector('.sm-modal-sinhalese');
@@ -71,10 +75,11 @@
         if (img) {
           modalImg.src = img;
           modalImg.alt = name;
-          modalImg.style.display = 'block';
+          modalImgLink.href = img;
+          modalImgLink.style.display = 'block';
           modalPH.style.display  = 'none';
         } else {
-          modalImg.style.display = 'none';
+          modalImgLink.style.display = 'none';
           modalPH.textContent    = name.split(' ').map(function(w){return w[0];}).join('').slice(0,2);
           modalPH.style.display  = 'flex';
         }
