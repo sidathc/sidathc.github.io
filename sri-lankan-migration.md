@@ -109,18 +109,18 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 <!-- ═══════════════════════════════════════════════════════
      LEGISLATION
      ══════════════════════════════════════════════════════ -->
-<section class="sm-editorial fade-in">
-  <div class="sm-editorial-img-wrap">
-    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" alt="Contract published in the Ceylon Observer in 1882"></a>
-    <span class="sm-img-caption">The contract published in the <em>Ceylon Observer</em> in 1882 · Source: Sparkes, 1988</span>
-  </div>
-  <div class="sm-editorial-body">
+<section class="sm-split">
+  <div class="sm-split-text fade-in">
     <h2 class="sm-section-heading">Concerns Over Fairness of Contract</h2>
     <div class="sm-body">
       <p>Shortly after the advertisement was published, the Ceylon government grew concerned over the fairness of the contract, given that the wage was £20 without food and lodging when rice, a key staple of the Sinhalese, was heavily taxed in Queensland.</p>
       <p>In response, the Colonial Secretary of Ceylon began correspondence with his counterpart in Queensland inquiring about the contract, and interviewed Caulfield.</p>
       <p>Following the Queensland government's response that the wages were not sufficient for the workers, the Ceylon government began writing legislation, but this was not proclaimed in time before the <em>Devonshire</em> departed Galle on November 18, 1882 for Queensland.</p>
     </div>
+  </div>
+  <div class="sm-split-visual fade-in fade-in-delay-1">
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img class="sm-img-contain" src="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" alt="Contract published in the Ceylon Observer in 1882"></a>
+    <span class="sm-img-caption-below">The contract published in the <em>Ceylon Observer</em> in 1882 · Source: Sparkes, 1988</span>
   </div>
 </section>
 
