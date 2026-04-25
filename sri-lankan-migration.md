@@ -47,8 +47,8 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-editorial fade-in">
   <div class="sm-editorial-img-wrap">
-    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" alt="Kanaka workers in a sugar cane plantation in Queensland"></a>
-    <span class="sm-img-caption">Kanaka workers in a sugar cane plantation in Queensland, late 19th century</span>
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" alt="South Sea Islander farm workers on a sugar plantation at Cairns, 1890"></a>
+    <span class="sm-img-caption">South Sea Islander farm workers on a sugar plantation at Cairns, 1890 · State Library of Queensland (<em>Flickr: The Commons</em>, no known copyright restrictions)</span>
   </div>
   <div class="sm-editorial-body">
     <h2 class="sm-section-heading">Indentured Labour: A Solution to Blackbirding</h2>
@@ -75,7 +75,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
     <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/henry-caulfield.png" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img class="sm-img-contain" src="/assets/images/sri-lankan-migration/henry-caulfield.png" alt="Henry St George Caulfield"></a>
-    <span class="sm-img-caption-below">Photo of Henry St George Caulfield published in 1937</span>
+    <span class="sm-img-caption-below">Henry St George Caulfield · Published in <em>"Adventurous Life Of Henry Caulfeild, Late Inspector of Pacific Islanders"</em>, The Steering Wheel and Society &amp; Home, 1937 (out of copyright)</span>
   </div>
 </section>
 
@@ -770,11 +770,15 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
   </div>
 
   <div class="sm-footer-inner fade-in">
-    <h2 class="sm-section-heading" style="font-size:1.2rem;">Full-Screen Image Credits</h2>
+    <h2 class="sm-section-heading" style="font-size:1.2rem;">Image Credits</h2>
     <p>David Pattinson. <em>Bundaberg Sugarcane</em>. 2013. CC BY-NC-SA 2.0.</p>
-    <p>State Library of Queensland. <em>South Sea Islanders on the deck of a ship arriving at Bundaberg</em>, 1895.</p>
-    <p>State Library of Queensland. <em>Burnett River, Bundaberg, Queensland</em>, 1909.</p>
-    <p>Mackay Regional Council Libraries. <em>Mackay Harbour, Mackay, Qld</em>. 1950.</p>
+    <p>State Library of Queensland. <em>South Sea Islander farm workers on a sugar plantation at Cairns</em>, 1890. Flickr: The Commons; no known copyright restrictions.</p>
+    <p>State Library of Queensland. <em>South Sea Islanders on the deck of a ship arriving at Bundaberg</em>, 1895. Out of copyright.</p>
+    <p>State Library of Queensland. <em>Burnett River, Bundaberg, Queensland</em>, 1909. Out of copyright.</p>
+    <p>Mackay Regional Council Libraries. <em>Mackay Harbour, Mackay, Qld</em>, 1950.</p>
+    <p><em>Workers sorting coffee seeds in Ceylon, late 1800s</em>. Sourced via Lankapura.</p>
+    <p><em>Contract published in the Ceylon Observer, 1882</em>. Reproduced from Sparkes, S. J. (1988), <em>Sri Lankan Migrants in Queensland in the Nineteenth Century</em>.</p>
+    <p>Henry St George Caulfield. Published in <em>"Adventurous Life Of Henry Caulfeild, Late Inspector of Pacific Islanders"</em>, The Steering Wheel and Society &amp; Home, 1937. Out of copyright.</p>
   </div>
 
   <div class="sm-footer-inner fade-in">
