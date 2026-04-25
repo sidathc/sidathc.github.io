@@ -752,6 +752,24 @@
   min-height: 340px;
 }
 
+.sm-img-zoom {
+  display: block;
+  cursor: zoom-in;
+  text-decoration: none;
+  transition: opacity 0.18s ease;
+}
+
+.sm-img-zoom:hover,
+.sm-img-zoom:focus {
+  opacity: 0.92;
+}
+
+.sm-img-zoom img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .sm-modal-img-link {
   position: relative;
   display: block;

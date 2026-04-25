@@ -47,7 +47,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-editorial fade-in">
   <div class="sm-editorial-img-wrap">
-    <img src="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" alt="Kanaka workers in a sugar cane plantation in Queensland">
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/kanaka-cane-workers.jpeg" alt="Kanaka workers in a sugar cane plantation in Queensland"></a>
     <span class="sm-img-caption">Kanaka workers in a sugar cane plantation in Queensland, late 19th century</span>
   </div>
   <div class="sm-editorial-body">
@@ -74,7 +74,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     </div>
   </div>
   <div class="sm-split-visual fade-in fade-in-delay-1">
-    <img class="sm-img-contain" src="/assets/images/sri-lankan-migration/henry-caulfield.png" alt="Henry St George Caulfield">
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/henry-caulfield.png" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img class="sm-img-contain" src="/assets/images/sri-lankan-migration/henry-caulfield.png" alt="Henry St George Caulfield"></a>
     <span class="sm-img-caption-below">Photo of Henry St George Caulfield published in 1937</span>
   </div>
 </section>
@@ -94,7 +94,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-editorial fade-in">
   <div class="sm-editorial-img-wrap">
-    <img src="/assets/images/sri-lankan-migration/coffee-workers-ceylon.jpeg" alt="Workers sorting coffee seeds in Ceylon in the late 1800s">
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/coffee-workers-ceylon.jpeg" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/coffee-workers-ceylon.jpeg" alt="Workers sorting coffee seeds in Ceylon in the late 1800s"></a>
     <span class="sm-img-caption">Workers sorting coffee seeds in the late 1800s before the fall of the coffee industry · Source: Lankapura</span>
   </div>
   <div class="sm-editorial-body">
@@ -111,7 +111,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-editorial fade-in">
   <div class="sm-editorial-img-wrap">
-    <img src="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" alt="Contract published in the Ceylon Observer in 1882">
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/ceylon-observer-contract.png" alt="Contract published in the Ceylon Observer in 1882"></a>
     <span class="sm-img-caption">The contract published in the <em>Ceylon Observer</em> in 1882 · Source: Sparkes, 1988</span>
   </div>
   <div class="sm-editorial-body">
@@ -139,7 +139,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-editorial fade-in">
   <div class="sm-editorial-img-wrap">
-    <img src="/assets/images/sri-lankan-migration/burnett-river-1909.jpg" alt="Burnett River, Bundaberg, 1909">
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/burnett-river-1909.jpg" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/burnett-river-1909.jpg" alt="Burnett River, Bundaberg, 1909"></a>
     <span class="sm-img-caption">Burnett River, Bundaberg, Queensland, 1909 · Source: State Library of Queensland</span>
   </div>
   <div class="sm-editorial-body">
@@ -172,7 +172,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-editorial fade-in">
   <div class="sm-editorial-img-wrap">
-    <img src="/assets/images/sri-lankan-migration/south-sea-islanders-ship.jpg" alt="South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895">
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/south-sea-islanders-ship.jpg" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/south-sea-islanders-ship.jpg" alt="South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895"></a>
     <span class="sm-img-caption">South Sea Islanders on the deck of a ship arriving at Bundaberg, 1895 · Source: State Library of Queensland</span>
   </div>
   <div class="sm-editorial-body">
@@ -242,7 +242,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
      ══════════════════════════════════════════════════════ -->
 <section class="sm-editorial fade-in">
   <div class="sm-editorial-img-wrap">
-    <img src="/assets/images/sri-lankan-migration/mackay-harbour.jpg" alt="Mackay Harbour, Mackay, Queensland, 1950">
+    <a class="sm-img-zoom" href="/assets/images/sri-lankan-migration/mackay-harbour.jpg" target="_blank" rel="noopener" aria-label="Open full-size image in a new tab"><img src="/assets/images/sri-lankan-migration/mackay-harbour.jpg" alt="Mackay Harbour, Mackay, Queensland, 1950"></a>
     <span class="sm-img-caption">Mackay Harbour, Mackay, Queensland, 1950 · Source: Mackay Regional Council Libraries</span>
   </div>
   <div class="sm-editorial-body">
@@ -743,7 +743,7 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 <section class="sm-dark">
   <div class="sm-dark-inner fade-in" style="max-width:700px; margin:0 auto;">
     <h2 class="sm-section-heading" style="color:#e8c97a;">About</h2>
-    <p>I am a first-generation Australian of Sri Lankan descent who is currently part of Lafayette College's Class of 2025 studying Engineering and International Studies.</p>
+    <p>I am an Australian of Sri Lankan descent who is currently part of Lafayette College's Class of 2025 studying Engineering and International Studies.</p>
     <p>Since I learned of the <em>Devonshire</em> migration in 1882, I have been curious to discover what happened and the stories of those onboard it. In 2019, I completed a research paper on this topic about the role of employer action on the failed attempt to source indentured labour from Ceylon in 1882.</p>
     <p>This project was done for the College's Digital Humanities Summer Scholars (DHSS) program.</p>
   </div>
@@ -789,6 +789,6 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
 
   <div class="sm-footer-inner fade-in">
     <h2 class="sm-section-heading" style="font-size:1.2rem;">Research Status</h2>
-    <p>This page preserves the June 2022 Digital Humanities Summer Scholars research on the SS <em>Devonshire</em> migration, conducted at Lafayette College. Profiles and identifications reflect the evidence available at that time. Source attributions, citations, and compliance notices have been updated since publication; research findings themselves have not been revised on this site. Investigation has continued, and the current working dataset includes additional individuals, candidate reclassifications, and corrections that are not reflected here.</p>
+    <p>This page replicates research originally published in 2022 as an Esri ArcGIS StoryMap at <a href="https://arcg.is/1rPCaq" target="_blank" rel="noopener">https://arcg.is/1rPCaq</a>, completed as part of Lafayette College's Digital Humanities Summer Scholars programme. The original StoryMap is no longer publicly accessible due to changes in institutional hosting; this self-hosted Jekyll reproduction preserves the work in a stable form. Profiles and identifications reflect the evidence available in June 2022. Source attributions, citations, and compliance notices have been updated since publication; research findings themselves have not been revised on this site. Investigation has continued, and the current working dataset includes additional individuals, candidate reclassifications, and corrections that are not reflected here.</p>
   </div>
 </section>
