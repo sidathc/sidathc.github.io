@@ -774,4 +774,9 @@ description: "What happened to the 500 Sri Lankans who came to Queensland onboar
     <p>State Library of Queensland. <em>Burnett River, Bundaberg, Queensland</em>, 1909.</p>
     <p>Mackay Regional Council Libraries. <em>Mackay Harbour, Mackay, Qld</em>. 1950.</p>
   </div>
+
+  <div class="sm-footer-inner fade-in">
+    <h2 class="sm-section-heading" style="font-size:1.2rem;">Newspaper Sources</h2>
+    <p>Newspaper clippings featured in migrant profiles were sourced from <a href="https://trove.nla.gov.au/" target="_blank" rel="noopener">Trove</a>, National Library of Australia. Newspapers accessed include the <em>Bundaberg Mail and Burnett Advertiser</em>, <em>Brisbane Courier</em>, <em>Mackay Mercury</em>, and other Queensland regional titles held in the Trove digitised newspaper collection.</p>
+  </div>
 </section>
