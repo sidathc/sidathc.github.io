@@ -30,6 +30,19 @@ permalink: /about/
 </details>
 
 <details class="accordion">
+  <summary>Fun facts about contrails</summary>
+  <div class="accordion-body">
+    <p>Did you know that:</p>
+    <ul>
+      <li>Non-CO<sub>2</sub> effects, which include contrails, may account for as much as <strong>two-thirds of aviation's climate impact</strong>, as found in a 2018 study.<sup><a href="#ref5">[5]</a></sup></li>
+      <li>Contrails are responsible for <strong>35% of the aviation industry's total climate impact</strong>.<sup><a href="#ref6">[6]</a></sup></li>
+      <li>In 2019, around <strong>14% of flights formed a contrail with a warming effect</strong>, and only around <strong>2% of all flights created ~80% of warming</strong>.<sup><a href="#ref7">[7]</a></sup></li>
+      <li>The same study found that in 2019, <strong>more than 50% of global contrail effects were concentrated over Europe, North America and the North Atlantic</strong>.<sup><a href="#ref7">[7]</a></sup></li>
+    </ul>
+  </div>
+</details>
+
+<details class="accordion">
   <summary>What this project seeks to find</summary>
   <div class="accordion-body">
     <p>My research questions continue to evolve as I create each new post and gain more knowledge. For now, this project focuses on understanding which regions in Australia have the highest air traffic and where contrail formation probability is most likely, and if they coincide. Then exploring what strategies could be used to prevent contrails forming from commercial aircraft exhaust.</p>
@@ -56,5 +69,8 @@ permalink: /about/
     <p><a name="ref2">[2]</a> EESI — <a href="https://www.eesi.org/papers/view/fact-sheet-the-growth-in-greenhouse-gas-emissions-from-commercial-aviation">Fact Sheet: The Growth in Greenhouse Gas Emissions from Commercial Aviation</a></p>
     <p><a name="ref3">[3]</a> Google Research — <a href="https://sites.research.google/gr/contrails/">Project Contrails</a></p>
     <p><a name="ref4">[4]</a> Transport & Environment — <a href="https://www.transportenvironment.org/articles/contrail-avoidance">Contrail Avoidance</a></p>
+    <p><a name="ref5">[5]</a> European Commission (2020) — <a href="https://eur-lex.europa.eu/resource.html?uri=cellar:7bc666c9-2d9c-11eb-b27b-01aa75ed71a1.0001.02/DOC_1&format=PDF">Updated analysis of the non-CO<sub>2</sub> climate impacts of aviation</a></p>
+    <p><a name="ref6">[6]</a> IPCC AR6 Working Group III, Chapter 10 — <a href="https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter10.pdf">Transport</a></p>
+    <p><a name="ref7">[7]</a> Teoh et al. (2024), <em>Atmospheric Chemistry and Physics</em> — <a href="https://acp.copernicus.org/articles/24/6071/2024/">Global aviation contrail climate effects from 2019 to 2021</a></p>
   </div>
 </details>
